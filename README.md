@@ -1,1 +1,1 @@
-A repository featuring LC problems I solved :D
+A collection featuring LeetCode problems I solved to practice DSA!
