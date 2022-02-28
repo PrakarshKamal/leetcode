@@ -28,7 +28,7 @@ class Solution {
         ListNode a = head; 
         ListNode b = mid;
         
-        while (b != null) {
+        while (a != null && b != null) {
             ListNode temp1 = a.next;
             a.next = b;
 
