@@ -41,7 +41,8 @@ public class Solution {
     }
     
     private int getLength(ListNode head) {
-        int len = 1;
+        
+        int len = 0;
         while (head != null) {
             head = head.next;
             len++;
