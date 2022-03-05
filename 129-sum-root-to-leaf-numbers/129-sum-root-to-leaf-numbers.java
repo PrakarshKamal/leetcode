@@ -15,32 +15,31 @@
  */
 class Solution {
     
-    private int sum;
+    // private int sum;
     
     public int sumNumbers(TreeNode root) {
         
-        sum = 0;
-        
-        sumNumbersRec(root, 0);
-        
-        return sum;
+        return sumNumbersRec(root, 0);
+
     }
     
-    private void sumNumbersRec(TreeNode node, int num) {
+    private int sumNumbersRec(TreeNode node, int num) {
         
         //base
         if (node == null) {
-            return;
+            return 0;
         }
         
         int currNum = num * 10 + node.val;
         
         //leaf
         if (node.left == null && node.right == null) {
-            sum += currNum;
+            return currNum;
         }
         
-        sumNumbersRec(node.left, currNum);
-        sumNumbersRec(node.right, currNum);
+        int leftSum = sumNumbersRec(node.left, currNum);
+        int rightSum = sumNumbersRec(node.right, currNum);
+        
+        return leftSum + rightSum;
     }
 }
