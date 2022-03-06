@@ -20,7 +20,10 @@ class Solution {
             return true;
         }
         
-        return height(root) != -1;
+        if (height(root) == -1) {
+            return false;
+        }
+        return true;
     }
     
     private int height(TreeNode root) {
