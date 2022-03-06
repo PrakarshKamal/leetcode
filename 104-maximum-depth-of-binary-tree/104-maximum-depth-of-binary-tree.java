@@ -13,6 +13,7 @@
  *     }
  * }
  */
+// // DFS recursion
 // class Solution {
 //     public int maxDepth(TreeNode root) {
         
@@ -27,6 +28,7 @@
 //     }
 // }
 
+// BFS
 class Solution {
     public int maxDepth(TreeNode root) {
         if (root == null) {
