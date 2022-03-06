@@ -6,6 +6,8 @@ class Solution {
             return 0;
         }
         
+        // we store elements in num as KEY
+        // and their count as VALUE
         Map<Integer, Integer> map = new HashMap<>();
         
         int count = 0;
