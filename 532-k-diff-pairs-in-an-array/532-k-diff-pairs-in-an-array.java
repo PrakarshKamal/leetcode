@@ -18,15 +18,14 @@ class Solution {
         
         for (int i : map.keySet()) {
             
+            // here we check the number of duplicate elements in nums
             if (k == 0) {
                 if (map.get(i) >= 2) {
                     count++;
                 }
             }
-            else {
-                if (map.containsKey(i + k)) {
+            else if (map.containsKey(i + k)) {
                     count++;
-                }
             }
         }
         
