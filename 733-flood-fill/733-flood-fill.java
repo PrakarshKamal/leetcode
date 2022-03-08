@@ -1,3 +1,7 @@
+// DFS recursive approoch
+// TC: O(m * n)
+// SC: O(2(min(m, n)))
+
 class Solution {
     
     private int[][] directions = new int[][] {
