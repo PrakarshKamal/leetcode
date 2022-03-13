@@ -36,6 +36,7 @@ class Solution {
 
             String operandString = nums.substring(index, i+1);
             
+            // checking for leading 0s in substring
             if (operandString.length() == 2 && operandString.charAt(0) == '0') {
                 break;
             }
