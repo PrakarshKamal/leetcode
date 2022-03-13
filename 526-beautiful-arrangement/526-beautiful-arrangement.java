@@ -19,7 +19,7 @@ class Solution {
             return;
         }
         
-        for (int i = 1; i <= perms.length-1; i++) {
+        for (int i = 1; i <= n; i++) {
             
             // action
             if (perms[i] == 0 && (i % index == 0 || index % i == 0)) {
