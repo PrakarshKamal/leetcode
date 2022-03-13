@@ -13,7 +13,7 @@ class Solution {
     
     private void evalArrangements(int[] perms, int index, int n) {
         
-        // base
+        // base case
         if (index == perms.length) {
             result++;
             return;
@@ -23,13 +23,13 @@ class Solution {
             
             // action
             if (perms[i] == 0 && (i % index == 0 || index % i == 0)) {
-                perms[i] = 1;
+                perms[i] = 1; // appending
                 
                 // recurse
                 evalArrangements(perms, index+1, n);
                 
                 // backtrack
-                perms[i] = 0;
+                perms[i] = 0; // removing
             }
         }
     }
