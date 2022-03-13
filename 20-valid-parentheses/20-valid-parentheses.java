@@ -36,7 +36,7 @@ class Solution {
     }
     
     private boolean isValidParentheses(char brackOpen, char brackClose) {
-        return brackOpen == '(' && brackClose == ')'
+        return  brackOpen == '(' && brackClose == ')'
                                 ||
                 brackOpen == '{' && brackClose == '}'
                                 ||
