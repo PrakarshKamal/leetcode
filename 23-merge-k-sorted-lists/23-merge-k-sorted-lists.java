@@ -11,38 +11,28 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         
-        PriorityQueue<ListNode> pq = new PriorityQueue<>();
+        PriorityQueue<ListNode> pq = new PriorityQueue<>(
+            (a, b) -> a.val - b.val
+        );
         
         ListNode dummyHead = new ListNode();
         
         ListNode tail = dummyHead;
         
-        while(true) {
-            
-            // get min node
-            ListNode min = null;
-            int index = -1;
-            
-            for(int i = 0; i < lists.length; i++) {               
-                ListNode node = lists[i];
-                
-                if (node != null) {
-                    if (min == null || node.val < min.val) {
-                        index = i;
-                        min = node;
-                    }
-                }
+        for(int i = 0; i < lists.length; i++) {
+            if(lists[i] != null) {
+                pq.add(lists[i]);
             }
-            
-            if (min == null) {
-                break;
-            }
-            
-            tail.next = min;
-            tail = tail.next;
-            lists[index] = lists[index].next;
         }
         
+        while(!pq.isEmpty()) {
+            ListNode min = pq.remove(); // log k time
+            if (min.next != null) {
+                pq.add(min.next);
+            }
+            tail.next = min;
+            tail = min;
+        }
         return dummyHead.next;
     }
 }
