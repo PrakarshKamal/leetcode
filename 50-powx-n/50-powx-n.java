@@ -1,15 +1,13 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N = n;
         
-        if (N < 0) {
+        if (n < 0) {
             x = 1/x;
-            N = -N;
         }
-        return myPowRecursive(x, N);
+        return myPowRecursive(x, n);
     }
     
-    private double myPowRecursive(double x, long n) {
+    private double myPowRecursive(double x, int n) {
         
         // base
         if (n == 0) {
