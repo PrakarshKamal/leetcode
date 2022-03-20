@@ -9,9 +9,9 @@ class Solution {
             (a, b) -> (b - a) // comparator for max heap
         );
         
-        for(int[] nums : matrix) {
-            for(int num : nums) {
-                pq.add(num);
+        for(int i = 0; i < matrix.length; i++) {
+            for(int j = 0; j < matrix[0].length; j++) {
+                pq.add(matrix[i][j]);
                 
                 if (pq.size() > k) {
                    pq.remove();
