@@ -11,6 +11,8 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         
+        PriorityQueue<ListNode> pq = new PriorityQueue<>();
+        
         ListNode dummyHead = new ListNode();
         
         ListNode tail = dummyHead;
