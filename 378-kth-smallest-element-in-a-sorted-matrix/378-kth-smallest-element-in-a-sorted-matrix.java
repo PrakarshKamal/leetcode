@@ -18,6 +18,6 @@ class Solution {
                 }
             }
         }
-        return pq.peek();
+        return pq.remove();
     }
 }
