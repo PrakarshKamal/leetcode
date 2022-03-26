@@ -15,7 +15,6 @@ class Solution {
             char c = s.charAt(end);
             
             if (set.contains(c)) {
-                
                 set.remove(s.charAt(start));
                 start++;
             }
