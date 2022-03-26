@@ -1,3 +1,6 @@
+//TC : O(2n)
+//SC : O(n) where n is size of window
+
 class Solution {
     
     // sliding window approach
