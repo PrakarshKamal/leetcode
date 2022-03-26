@@ -1,3 +1,6 @@
+//TC : O(n+m) where m is 26 so it becomes O(n)
+//SC: O(m) where m is 26 so it becomes O(1)
+
 class Solution {
     public String customSortString(String order, String s) {
         
