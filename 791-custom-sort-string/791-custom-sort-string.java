@@ -5,9 +5,7 @@ class Solution {
     public String customSortString(String order, String s) {
         
         Map<Character, Integer> map = new HashMap<>();
-        
-        int count = 0;
-        
+
         for (int i = 0; i < s.length(); i++) {
             
             char x = s.charAt(i);
