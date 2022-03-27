@@ -1,34 +1,59 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         
+        Map<Character, Integer> pMap = new HashMap<>();
+        
         List<Integer> ans = new ArrayList<>();
         
-        int[] pFreq = new int[26];
-        int[] sWindowFreq = new int[26];
-        
         for (int i = 0; i < p.length(); i++) {
-            pFreq[p.charAt(i) - 'a']++;
-            
+            char c = p.charAt(i);
+            pMap.put(c, pMap.getOrDefault(c, 0)+1);
         }
         
-        int endOfWindow = 0;
+        int window = 0;
+        int match = 0;
         
-        while (endOfWindow < s.length()) {
+        while (window < s.length()) {
             
-            //incoming
-            sWindowFreq[s.charAt(endOfWindow) - 'a']++;
+            // incoming
+            char inChar = s.charAt(window);
             
-            //outgoing
-            if (endOfWindow >= p.length()) {
-                sWindowFreq[s.charAt(endOfWindow - p.length()) - 'a']--;
+            if (pMap.containsKey(inChar)) {
+                int freq = pMap.get(inChar);
                 
+                freq--;
+                
+                pMap.put(inChar, freq);
+                
+                if (freq == 0) {
+                    match++;
+                }
             }
             
-            if (Arrays.equals(pFreq, sWindowFreq)) {
-                ans.add(endOfWindow - p.length() + 1);
+            // outgoing
+            if (window >= p.length()) {
+                
+                char outChar = s.charAt(window - p.length());
+                
+                if (pMap.containsKey(outChar)) {
+                    
+                    int freq = pMap.get(outChar);
+                    
+                    freq++;
+                    
+                    pMap.put(outChar, freq);
+                    
+                    if (freq == 1) {
+                        match--;
+                    }
+                }
             }
             
-            endOfWindow++;
+            if (match == pMap.size()) {
+                ans.add(window - p.length() + 1);
+            }
+            
+            window++;
         }
         return ans;
     }
