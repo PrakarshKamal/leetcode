@@ -1,1 +1,1 @@
-A collection featuring LeetCode problems I solved to practice DSA!
+A collection of LeetCode problems I solved to practice DSA.
