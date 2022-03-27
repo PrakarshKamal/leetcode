@@ -1,5 +1,6 @@
 // KMP Algo
-
+// TC : O(n+m) where n is len of haystack and m is len of needle
+// SC: O(m) where m is len of needle
 class Solution {
     public int strStr(String haystack, String needle) {
         
