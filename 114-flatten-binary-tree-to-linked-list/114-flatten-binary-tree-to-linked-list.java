@@ -13,6 +13,10 @@
  *     }
  * }
  */
+
+//TC: O(n)
+//SC: O(h) where h is height of tree
+
 class Solution {
     public void flatten(TreeNode root) {
         
