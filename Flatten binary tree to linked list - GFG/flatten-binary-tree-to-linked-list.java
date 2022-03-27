@@ -115,23 +115,31 @@ class Solution
     public static void flatten(Node root)
     {
         //code here
-        if (root == null || (root.left == null && root.right == null)) {
+        
+        Stack<Node> stack = new Stack<>();
+        
+        if (root == null) {
             return;
         }
         
-        if (root.left != null) {
-            flatten(root.left);
-            Node tempRight = root.right;
-            root.right = root.left;
-            root.left = null;
-            
-            Node newRoot = root;
-            while (newRoot.right != null) {
-                newRoot = newRoot.right;
-            }
-            newRoot.right = tempRight;
-        }
-        flatten(root.right);
+        stack.push(root);
         
+        while (!stack.isEmpty()) {
+            
+            Node curr = stack.pop();
+            
+            if (curr.right != null) {
+                stack.push(curr.right);
+            }
+            
+            if (curr.left != null) {
+                stack.push(curr.left);
+            }
+            
+            if (!stack.isEmpty()) {
+                curr.right = stack.peek();
+                curr.left = null;
+            }
+        }
     }
 }
