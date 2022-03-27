@@ -18,9 +18,9 @@ class Solution {
         if (num == 0) {
             return "Zero";
         }
-        
-        int i = 0;
+
         String result = "";
+        int i = 0;
         
         while (num > 0) {
             
