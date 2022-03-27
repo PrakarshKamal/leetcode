@@ -1,3 +1,6 @@
+//TC: O(n) where n is length of s
+//SC: O(1) as we can have at worst for p string => 26 letters, 26 is constant
+
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         
