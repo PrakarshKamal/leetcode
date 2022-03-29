@@ -25,21 +25,54 @@ class Node {
 // SC: O(height of tree (log n)) but recursive stack space is ignored so SC = O(1)
 
 class Solution {
-    public Node connect(Node root) {
-        connectRecursive(root, null);
-        return root;
-    }
+//     public Node connect(Node root) {
+//         connectRecursive(root, null);
+//         return root;
+//     }
     
-    private void connectRecursive(Node node, Node next) {
+//     private void connectRecursive(Node node, Node next) {
         
-        // base
-        if (node == null) {
-            return;
+//         // base
+//         if (node == null) {
+//             return;
+//         }
+        
+//         node.next = next;
+        
+//         connectRecursive(node.left, node.right);
+//         connectRecursive(node.right, node.next == null ? null : node.next.left);
+//     }
+    
+    // TC: O(n)
+    // SC: O(1) (no extra recursive stack space)
+    public Node connect(Node root) {
+        
+        if (root == null) {
+            return root;
         }
         
-        node.next = next;
+        Node leftMost = root;
         
-        connectRecursive(node.left, node.right);
-        connectRecursive(node.right, node.next == null ? null : node.next.left);
+        while (leftMost.left != null) {
+            Node prev = leftMost;
+            Node curr = prev.left;
+            
+            while (curr != null) {
+                
+                curr.next = prev.right;
+                curr = curr.next;
+                
+                if (prev.next != null) {
+                    curr.next = prev.next.left;
+                }
+                
+                curr = curr.next;
+                prev = prev.next;
+            }
+  
+            leftMost = leftMost.left;
+        }
+        
+        return root;
     }
 }
