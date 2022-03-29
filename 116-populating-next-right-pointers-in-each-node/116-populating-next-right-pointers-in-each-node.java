@@ -21,6 +21,9 @@ class Node {
 };
 */
 
+// TC : O(n)
+// SC: O(height of tree (log n)) but recursive stack space is ignored so SC = O(1)
+
 class Solution {
     public Node connect(Node root) {
         connectRecursive(root, null);
