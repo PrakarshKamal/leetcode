@@ -1,3 +1,6 @@
+//TC: O(n * k)
+//SC: O(n)
+
 class Solution {
     
     private int[] dp;
