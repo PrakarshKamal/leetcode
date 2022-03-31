@@ -1,5 +1,5 @@
 //TC: O(n * k)
-//SC: O(n)
+//SC: O(n + k) n for dp arr, k for recursive stack
 
 class Solution {
     
