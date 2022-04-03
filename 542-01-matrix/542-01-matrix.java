@@ -1,3 +1,6 @@
+//TC : O(m*n)
+//SC : O(m*n)
+
 class Solution {
     
     private int[][] directions = {
