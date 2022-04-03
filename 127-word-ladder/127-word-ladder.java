@@ -1,3 +1,6 @@
+//TC : O(n * m)
+//SC : O(n * m)
+
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         
