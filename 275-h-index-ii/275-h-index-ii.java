@@ -1,25 +1,33 @@
-//TC: O(n log n)
+//TC: O(log n)
 //SC: O(1)
 
 class Solution {
     
     public int hIndex(int[] citations) {
         
-        Arrays.sort(citations);
-        
         int n = citations.length;
+        int start = 0;
+        int end = n - 1;
         
-        int h = n;
-        
-        while (h > 0) {
+        while (start <= end) {
             
-            if(citations[n-h] >= h) {
+            int mid = start + (end - start) / 2;
+            
+            int h = n - mid;
+            
+            if(citations[mid] == h) {
                 return h;
             }
             
-            h--;
+            else if (citations[mid] < h) {
+                start = mid + 1;
+            }
+            
+            else {
+                end = mid - 1;
+            }
         }
         
-        return h;
+        return n - start;
     }
 }
