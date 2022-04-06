@@ -1,3 +1,6 @@
+//TC: O(n)
+//SC: O(n)
+
 class Solution {
     public int hIndex(int[] citations) {
         
@@ -16,6 +19,7 @@ class Solution {
             }
         }
         
+        // calculating suffix sum
         for (int i = n-1; i >= 0; i--) {
             counts[i] += counts[i+1];
         }
