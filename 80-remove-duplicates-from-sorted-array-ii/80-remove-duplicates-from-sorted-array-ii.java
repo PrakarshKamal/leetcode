@@ -1,4 +1,5 @@
-
+// TC: O(n)
+// SC: O(1)
 
 class Solution {
     public int removeDuplicates(int[] nums) {
