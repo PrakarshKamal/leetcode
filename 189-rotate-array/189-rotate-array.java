@@ -30,6 +30,8 @@ class Solution {
         }
     }
     
+//     // TC: O(n)
+//     // SC: O(k)
 //     public void rotate(int[] nums, int k) {
         
 //         Queue<Integer> q = new LinkedList<>();
