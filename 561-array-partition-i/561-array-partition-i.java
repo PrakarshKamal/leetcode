@@ -1,3 +1,6 @@
+//TC: O(n log n)
+//SC: O(1)
+
 class Solution {
     public int arrayPairSum(int[] nums) {
         
