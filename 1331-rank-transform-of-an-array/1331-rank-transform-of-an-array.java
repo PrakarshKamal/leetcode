@@ -1,23 +1,23 @@
+//TC: O(n log n)
+//SC: O(n)
+
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
+        
         int n = arr.length;
         
-        // edge case
-        if (n == 0) {
-            return arr;
-        }
-        
-        int[] temp = Arrays.copyOf(arr, n);
-        
-        Arrays.sort(temp);
+        int[] temp = Arrays.copyOf(arr, n); // O(n)
         
         Map<Integer, Integer> map = new HashMap<>();
         
-        int rank = 1;
+        Arrays.sort(temp); // O(n log n)
         
-        for (int ele : temp) {
-            if (!map.containsKey(ele)) {
-                map.put(ele, rank);
+        // temp = reverse(temp);
+        
+        int rank = 1;
+        for (int num : temp) { // O(n)
+            if (!map.containsKey(num)) {
+                map.put(num, rank);
                 rank++;
             }
         }
@@ -29,4 +29,19 @@ class Solution {
         }
         return result;
     }
+    
+//     private int[] reverse(int[] arr) {
+//         int start = 0;
+//         int end = arr.length - 1;
+        
+//         while (start < end) {
+//             int temp = arr[start];
+//             arr[start] = arr[end];
+//             arr[end] = temp;
+            
+//             start++;
+//             end--;
+//         }
+//         return arr;
+//     }
 }
