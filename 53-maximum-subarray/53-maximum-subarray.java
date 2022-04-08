@@ -14,7 +14,7 @@ class Solution {
             
             maxSum = Math.max(maxSum, currSum);
             
-            if (currSum <= 0) {  
+            if (currSum < 0) {  
                 currSum = 0;
             }
         }
