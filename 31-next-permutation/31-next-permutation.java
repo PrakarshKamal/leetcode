@@ -39,13 +39,11 @@ class Solution {
     }
     
     private void reverse(int[] nums, int start, int end) {
-        int i = start;
-        int j = end;
         
-        while (i < j) {
-            swap(nums, i, j);
-            i++;
-            j--;
+        while (start < end) {
+            swap(nums, start, end);
+            start++;
+            end--;
         }
     }
 }
