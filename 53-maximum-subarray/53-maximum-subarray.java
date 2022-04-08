@@ -1,6 +1,8 @@
 //TC: O(n)
 //SC: O(1)
 
+// Kadane's algorithm
+
 class Solution {
     public int maxSubArray(int[] nums) {
         int currSum = 0;
@@ -8,13 +10,13 @@ class Solution {
         
         for (int i = 0; i < nums.length; i++) {
             
-            if (currSum < 0) {
-                currSum = 0;
-            }
-            
             currSum += nums[i];
             
             maxSum = Math.max(maxSum, currSum);
+            
+            if (currSum < 0) {  
+                currSum = 0;
+            }
         }
         
         return maxSum;
