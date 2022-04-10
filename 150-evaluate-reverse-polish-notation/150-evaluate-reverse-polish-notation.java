@@ -1,5 +1,5 @@
 //TC: O(n) for looping through tokens
-//SCL O(n) for maintaining stack
+//SC: O(n) for maintaining stack
 
 class Solution {
     public int evalRPN(String[] tokens) {
