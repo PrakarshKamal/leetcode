@@ -1,3 +1,6 @@
+//TC: O(n) for looping through s
+//SC: O(n) for stack of size length of given s
+
 class Solution {
     
     Stack<Character> stack;
