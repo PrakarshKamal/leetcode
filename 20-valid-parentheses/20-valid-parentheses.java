@@ -23,6 +23,8 @@ class Solution {
             
             else {
                 
+                // if s = } that means we have just closed bracket
+                // so we check stack before peeking
                 if (stack.isEmpty()) {
                     return false;    
                 }
