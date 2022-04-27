@@ -4,7 +4,13 @@ class Solution {
     
     private boolean[][] board;
     
+    private Set<Integer> colSet, leftUpperDiagSet, rightUpperDiagSet;
+    
     public List<List<String>> solveNQueens(int n) {
+        
+        colSet = new HashSet<>();
+        leftUpperDiagSet = new HashSet<>();
+        rightUpperDiagSet = new HashSet<>();
         
         result = new ArrayList<>();
         board = new boolean[n][n]; //true => there is queen   
@@ -40,11 +46,19 @@ class Solution {
         for (int col = 0; col < board.length; col++) {
             if (isSafe(board, row, col)) {
                 
+                //placing queen
                 board[row][col] = true;
+                colSet.add(col);
+                leftUpperDiagSet.add(row-col);
+                rightUpperDiagSet.add(row+col);
                 
                 solveQueens(board, row+1);
                 
+                //remove queen (backtrack)
                 board[row][col] = false;
+                colSet.remove(col);
+                leftUpperDiagSet.remove(row-col);
+                rightUpperDiagSet.remove(row+col);
             }
         }
     }
@@ -59,44 +73,56 @@ class Solution {
     }
     
     private boolean isSafeColumn(boolean[][] board, int row, int col) {
-        for (int i = row-1; i >= 0; i--) {
-            if (board[i][col]) {
-                return false; // there is a queen, not safe
-            }
-        }
-        return true;
+        return !colSet.contains(col); 
     }
     
     private boolean isSafeLeftUpperDiag(boolean[][] board, int row, int col) {
-        int i = row-1;
-        int j = col-1;
-        
-        while (i >= 0 && j >= 0) {
-            if (board[i][j]) {
-                return false; // there is a queen, not safe
-            }
-            
-            i--;
-            j--;
-        }
-        return true;
+        return !leftUpperDiagSet.contains(row-col);
     }
     
     private boolean isSafeRightUpperDiag(boolean[][] board, int row, int col) {
-        int i = row-1;
-        int j = col+1;
-        
-        while (i >= 0 && j < board.length) {
-            if (board[i][j]) {
-                return false; // there is a queen, not safe
-            }
-            
-            i--;
-            j++;
-        }
-        
-        return true;
+        return !rightUpperDiagSet.contains(row+col);
     }
+    
+//     private boolean isSafeColumn(boolean[][] board, int row, int col) {
+//         for (int i = row-1; i >= 0; i--) {
+//             if (board[i][col]) {
+//                 return false; // there is a queen, not safe
+//             }
+//         }
+//         return true;
+//     }
+    
+//     private boolean isSafeLeftUpperDiag(boolean[][] board, int row, int col) {
+//         int i = row-1;
+//         int j = col-1;
+        
+//         while (i >= 0 && j >= 0) {
+//             if (board[i][j]) {
+//                 return false; // there is a queen, not safe
+//             }
+            
+//             i--;
+//             j--;
+//         }
+//         return true;
+//     }
+    
+//     private boolean isSafeRightUpperDiag(boolean[][] board, int row, int col) {
+//         int i = row-1;
+//         int j = col+1;
+        
+//         while (i >= 0 && j < board.length) {
+//             if (board[i][j]) {
+//                 return false; // there is a queen, not safe
+//             }
+            
+//             i--;
+//             j++;
+//         }
+        
+//         return true;
+//     }
     
     
 }
