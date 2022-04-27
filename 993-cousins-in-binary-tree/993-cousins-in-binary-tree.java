@@ -13,6 +13,9 @@
  *     }
  * }
  */
+
+//TC: O(n) where n is number of nodes
+//SC: O(n) where n is number of nodes
 class Pair {
     private TreeNode curr;
     private int parent;
