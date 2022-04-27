@@ -1,3 +1,6 @@
+//Time complexity: O(m*n*3^w) where m * n is matrix and w is word length
+//Space complexity: O(w) where w is word length
+
 class Solution {
     
     private static final int[][] dirs = {
