@@ -1,3 +1,6 @@
+//TC : O(n! + V*n^2) where n is matrix size and V is possible ways to place queen
+//SC : O(n^2 + 3*n) where n is row*col of board matrix and also 3 extra hashsets
+
 class Solution {
     
     private List<List<String>> result;
