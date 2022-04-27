@@ -13,6 +13,10 @@
  *     }
  * }
  */
+
+// Time Complexity : O(n) where n is # of nodes
+// Space Complexity : O(n) where n is # of nodes
+
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         
