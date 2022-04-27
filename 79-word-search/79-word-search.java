@@ -41,8 +41,9 @@ class Solution {
                 
                             exist(board, i, j+1, word, wordIndex+1); // right
             
-            board[i][j] = word.charAt(wordIndex);
-            
+            if (!found) {
+                board[i][j] = word.charAt(wordIndex);
+            }
             return found;
         }
         
