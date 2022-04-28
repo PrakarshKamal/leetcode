@@ -1,3 +1,6 @@
+// Time Complexity : O(w) where w is word length
+// Space Complexity : O(w) where w is word length
+
 class Solution {
     
     public String replaceWords(List<String> rootWords, String sentence) {
