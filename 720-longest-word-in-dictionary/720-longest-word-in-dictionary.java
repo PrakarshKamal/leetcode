@@ -1,3 +1,6 @@
+//TC: O(w) where w is word length of ALL words
+//SC: O(n) for recursive stack
+
 class Solution {
     
     private String ans;
