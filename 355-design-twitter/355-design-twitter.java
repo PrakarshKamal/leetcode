@@ -1,3 +1,6 @@
+//TC: O(m * n) where m is # of users and n is # of tweets
+//SC: O(m * n) where m is # of users and n is # of tweets
+
 class Twitter {
     
     private static int seq = 0;
