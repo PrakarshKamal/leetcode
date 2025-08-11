@@ -9,6 +9,6 @@ class Solution {
             }
             valMap.put(nums[i], i);
         }
-        return new int[] {};
+        return new int[0];
     }
 }
