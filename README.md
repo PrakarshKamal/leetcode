@@ -5,6 +5,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshKamal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrakarshKamal/leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
@@ -17,6 +18,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
