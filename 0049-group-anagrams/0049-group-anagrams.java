@@ -1,6 +1,6 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-                Map<String, List<String>> ans = new HashMap<>();
+        Map<String, List<String>> ans = new HashMap<>();
 
         for (String s : strs) {
             int[] count = new int[26];
