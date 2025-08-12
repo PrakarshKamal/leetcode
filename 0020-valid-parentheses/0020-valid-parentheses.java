@@ -1,12 +1,34 @@
-//TC: O(n) for looping through s
-//SC: O(n) for stack of size length of given s
-
+// class Solution {
+//     public boolean isValid(String s) {
+//         Stack<Character> stack = new Stack<>();
+//         if(s.length() == 1) {
+//             return false;
+//         }
+//         for(char c : s.toCharArray()) {
+//             if(c == '(' || c == '[' || c == '{') {
+//                 stack.push(c);
+//             }
+//             else {
+//                 if(stack.isEmpty()) {
+//                     return false;
+//                 }
+//                 char top = stack.pop();
+//                 if (c == ')' && top != '(' ||
+//                     c == ']' && top != '[' ||
+//                     c == '}' && top != '{') {
+//                     return false;
+//                 }
+//             }
+//         }
+//         return stack.isEmpty();
+//     }
+// }
 class Solution {
     
-    Stack<Character> stack;
+    
     
     public boolean isValid(String s) {
-        stack = new Stack<>();
+        Stack<Character> stack = new Stack<>();
         
         // base case checking if string length is odd
         // if odd, not valid
