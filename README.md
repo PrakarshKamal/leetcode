@@ -11,6 +11,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2058-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PrakarshKamal/leetcode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0838-design-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
