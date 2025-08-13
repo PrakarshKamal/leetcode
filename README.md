@@ -53,6 +53,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PrakarshKamal/leetcode/tree/master/0155-min-stack) |
+| [0838-design-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
