@@ -9,6 +9,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshKamal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrakarshKamal/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2058-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/2058-concatenation-of-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrakarshKamal/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/PrakarshKamal/leetcode/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
