@@ -1,3 +1,4 @@
+// O(n) time, O(n) space
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
