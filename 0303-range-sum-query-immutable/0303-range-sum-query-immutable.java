@@ -1,3 +1,5 @@
+// TC O(1) for sumRange
+// SC O(n)
 class NumArray {
 
     private int[] prefix;
