@@ -5,7 +5,7 @@ class Solution {
             if (i < word1.length()) {
                 ans.append(word1.charAt(i));
             }
-            if(i < word2.length()) {
+            if (i < word2.length()) {
                 ans.append(word2.charAt(i));
             }
         }
