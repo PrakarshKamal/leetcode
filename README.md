@@ -92,6 +92,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0838-design-linked-list) |
 ## Prefix Sum
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PrakarshKamal/leetcode/tree/master/0036-valid-sudoku) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
