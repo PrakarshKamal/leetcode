@@ -10,27 +10,44 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        // Stack approach
+        // if (head == null || head.next == null) {
+        //     return head;
+        // }
+
+        // Stack<ListNode> stack = new Stack<>();
+
+        // ListNode curr = head;
+
+        // while (curr != null) {
+        //     stack.push(curr);
+        //     curr = curr.next;
+        // }
+
+        // ListNode rev = stack.pop();
+        // curr = rev;
+
+        // while (!stack.isEmpty()) {
+        //     curr.next = stack.pop();
+        //     curr = curr.next;
+        // }
+        // curr.next = null;
+        // return rev;
+
+
+        // Iterative approach
         if (head == null || head.next == null) {
             return head;
         }
-
-        Stack<ListNode> stack = new Stack<>();
-
+        ListNode prev = null;
         ListNode curr = head;
 
         while (curr != null) {
-            stack.push(curr);
-            curr = curr.next;
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
         }
-
-        ListNode rev = stack.pop();
-        curr = rev;
-
-        while (!stack.isEmpty()) {
-            curr.next = stack.pop();
-            curr = curr.next;
-        }
-        curr.next = null;
-        return rev;
+        return prev;
     }
 }
