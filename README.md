@@ -92,6 +92,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PrakarshKamal/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0838-design-linked-list) |
 ## Prefix Sum
@@ -106,5 +107,6 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PrakarshKamal/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
