@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        // Stack approach
+        // Stack approach O(n) time, O(n) space
         // if (head == null || head.next == null) {
         //     return head;
         // }
@@ -35,19 +35,33 @@ class Solution {
         // return rev;
 
 
-        // Iterative approach
+        // Iterative approach O(n) time, O(1) space
+        // if (head == null || head.next == null) {
+        //     return head;
+        // }
+        // ListNode prev = null;
+        // ListNode curr = head;
+
+        // while (curr != null) {
+        //     ListNode temp = curr.next;
+        //     curr.next = prev;
+        //     prev = curr;
+        //     curr = temp;
+        // }
+        // return prev;
+
+        // Recursive approach O(n) time, O(1n space
         if (head == null || head.next == null) {
             return head;
         }
-        ListNode prev = null;
+
         ListNode curr = head;
 
-        while (curr != null) {
-            ListNode temp = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = temp;
+        if (head.next != null) {
+            curr = reverseList(head.next);
+            head.next.next = head;
         }
-        return prev;
+        head.next = null;
+        return curr;
     }
 }
