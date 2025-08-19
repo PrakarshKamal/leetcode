@@ -1,4 +1,5 @@
 class Solution {
+    // Using Queue, O(n^2) worst case, O(n) space
     public int countStudents(int[] students, int[] sandwiches) {
         Queue<Integer> q = new LinkedList<>();
 
