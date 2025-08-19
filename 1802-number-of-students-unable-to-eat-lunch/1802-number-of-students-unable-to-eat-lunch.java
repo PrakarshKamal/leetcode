@@ -22,6 +22,7 @@ class Solution {
         // }
         // return q.size();
 
+        // Counting approach, O(n) time, O(1) space
         int zeroCount = 0;
         int oneCount = 0;
 
