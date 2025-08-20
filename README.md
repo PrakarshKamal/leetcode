@@ -97,6 +97,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0013-roman-to-integer](https://github.com/PrakarshKamal/leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PrakarshKamal/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -131,4 +133,12 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PrakarshKamal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrakarshKamal/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
