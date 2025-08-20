@@ -36,32 +36,29 @@ class Solution {
 
 
         // Iterative approach O(n) time, O(1) space
-        if (head == null || head.next == null) {
-            return head;
-        }
-        ListNode prev = null;
-        ListNode curr = head;
-
-        while (curr != null) {
-            ListNode temp = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = temp;
-        }
-        return prev;
-
-        // Recursive approach O(n) time, O(1n space
         // if (head == null || head.next == null) {
         //     return head;
         // }
-
+        // ListNode prev = null;
         // ListNode curr = head;
 
-        // if (head.next != null) {
-        //     curr = reverseList(head.next);
-        //     head.next.next = head;
+        // while (curr != null) {
+        //     ListNode temp = curr.next;
+        //     curr.next = prev;
+        //     prev = curr;
+        //     curr = temp;
         // }
-        // head.next = null;
-        // return curr;
+        // return prev;
+
+        // Recursive approach O(n) time, O(1n space
+        if (head == null || head.next == null) {
+            return head;
+        }
+
+        ListNode curr = reverseList(head.next);
+        ListNode tmp = head.next;
+        tmp.next = head;
+        head.next = null;
+        return curr;
     }
 }
