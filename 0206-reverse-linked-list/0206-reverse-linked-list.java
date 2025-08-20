@@ -50,7 +50,8 @@ class Solution {
         // }
         // return prev;
 
-        // Recursive approach O(n) time, O(1n space
+        // Recursive approach O(n) time, O(1) space
+        // Base case
         if (head == null || head.next == null) {
             return head;
         }
