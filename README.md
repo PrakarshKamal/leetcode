@@ -102,6 +102,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0013-roman-to-integer](https://github.com/PrakarshKamal/leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0795-k-th-symbol-in-grammar](https://github.com/PrakarshKamal/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PrakarshKamal/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0206-reverse-linked-list) |
+| [0795-k-th-symbol-in-grammar](https://github.com/PrakarshKamal/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 ## Doubly-Linked List
 |  |
@@ -174,4 +176,8 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/PrakarshKamal/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
