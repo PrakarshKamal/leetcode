@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    // Recursion approach O(), O(n) space
+    // Recursion approach O(n) for n nodes, O(n) space where n is tree height
     public int maxDepth(TreeNode root) {
         // Base case
         if (root == null) {
