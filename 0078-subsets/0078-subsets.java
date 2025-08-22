@@ -23,6 +23,7 @@ class Solution {
         backtrack(ans, temp, nums, start + 1);
 
         // we don't include the number
+        // removing the number we just added
         temp.remove(temp.size() - 1);
 
         backtrack(ans, temp, nums, start + 1);
