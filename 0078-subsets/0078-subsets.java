@@ -1,4 +1,5 @@
 class Solution {
+    // O(n * 2^n) time, O(n) space
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
 
