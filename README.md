@@ -17,6 +17,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0238-product-of-array-except-self](https://github.com/PrakarshKamal/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrakarshKamal/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -189,4 +190,8 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
