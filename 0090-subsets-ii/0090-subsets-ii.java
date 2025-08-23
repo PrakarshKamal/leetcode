@@ -1,5 +1,6 @@
 class Solution {
-
+    
+    // O(n * 2^n) time, O(n) space
     Set<List<Integer>> seen = new HashSet<>();
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
