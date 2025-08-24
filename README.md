@@ -16,6 +16,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PrakarshKamal/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
@@ -81,6 +82,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -125,6 +127,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0036-valid-sudoku](https://github.com/PrakarshKamal/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -196,5 +199,6 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
