@@ -2,6 +2,7 @@
       boolean isBadVersion(int version); */
 
 public class Solution extends VersionControl {
+    // Binary search range O(log n) time O(1) space
     public int firstBadVersion(int n) {
         int low = 1;
         int high = n;
