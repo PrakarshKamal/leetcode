@@ -200,10 +200,12 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/PrakarshKamal/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/PrakarshKamal/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/PrakarshKamal/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/PrakarshKamal/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
