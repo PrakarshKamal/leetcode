@@ -8,6 +8,7 @@
  */
 
 public class Solution extends GuessGame {
+    // Binary search range O(log n) time, O(1) space
     public int guessNumber(int n) {
         int low = 1;
         int high = n;
