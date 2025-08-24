@@ -10,41 +10,22 @@ class Solution {
         // }
         // return false;
 
-        int rows = matrix.length;
-        int cols = matrix[0].length;
+        int m = matrix.length;
+        int n = matrix[0].length;
 
-        int top = 0;
-        int bottom = rows - 1;
-
-        while (top <= bottom) {
-            int row = (top + bottom) / 2;
-
-            if (target > matrix[row][cols - 1]) {
-                top = row + 1;
-            }
-            else if (target < matrix[row][0]) {
-                bottom = row - 1;
-            }
-            else {
-                break;
-            }
-        }
-
-        if (!(top <= bottom)) {
-            return false;
-        }
-
-        int currRow = (top + bottom) / 2;
         int left = 0;
-        int right = cols - 1;
+        int right = (m * n) - 1;
 
         while (left <= right) {
             int mid = (left + right) / 2;
-            
-            if (target > matrix[currRow][mid]) {
+
+            int i = mid / n;
+            int j = mid % n;
+
+            if (target > matrix[i][j]) {
                 left = mid + 1;
             }
-            else if (target < matrix[currRow][mid]) {
+            else if (target < matrix[i][j]) {
                 right = mid - 1;
             }
             else {
@@ -53,6 +34,4 @@ class Solution {
         }
         return false;
     }
-
-
 }
