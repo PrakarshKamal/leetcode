@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // Recursive method, O(h) time, O(h) space, On average h = log n
     public TreeNode deleteNode(TreeNode root, int key) {
         if (root == null) {
             return root;
