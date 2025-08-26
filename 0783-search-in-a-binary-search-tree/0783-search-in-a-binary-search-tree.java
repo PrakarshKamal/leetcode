@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // Recursive O(h) time, O(h) where h is height of tree
     public TreeNode searchBST(TreeNode root, int val) {
         TreeNode ans = root;
         if (ans == null) {
