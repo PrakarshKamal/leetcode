@@ -33,7 +33,9 @@ class Solution {
             else if (root.right == null) {
                 return root.left;
             }
-            else {
+            else { 
+                // we are removing root.val == key so we have to update BST
+                // by taking minimum of right subtree and updating root.val to min.val
                 TreeNode min = minValNode(root.right); // find min in right subtree
                 root.val = min.val;
                 root.right = deleteNode(root.right, min.val);
