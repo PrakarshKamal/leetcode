@@ -161,6 +161,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0278-first-bad-version](https://github.com/PrakarshKamal/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/PrakarshKamal/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
