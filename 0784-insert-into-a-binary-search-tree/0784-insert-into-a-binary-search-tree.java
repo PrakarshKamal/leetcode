@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // Recursive O(H) time, O(H) space. On average h = log n
     public TreeNode insertIntoBST(TreeNode root, int val) {
         if (root == null) {
             return new TreeNode(val);
