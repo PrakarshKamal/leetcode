@@ -67,6 +67,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrakarshKamal/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/PrakarshKamal/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PrakarshKamal/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -160,6 +161,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PrakarshKamal/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -167,6 +169,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PrakarshKamal/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
