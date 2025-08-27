@@ -17,18 +17,34 @@ class Solution {
     // Recursive O(n) time, O(n) space
     List<Integer> ans;
 
+    // public List<Integer> inorderTraversal(TreeNode root) {
+    //     ans = new ArrayList<>();
+    //     inorder(root);
+    //     return ans;
+    // }
+
+    // private void inorder(TreeNode root) {
+    //     if (root == null) {
+    //         return;
+    //     }
+    //     inorder(root.left);
+    //     ans.add(root.val);
+    //     inorder(root.right);
+    // }
+
     public List<Integer> inorderTraversal(TreeNode root) {
         ans = new ArrayList<>();
-        inorder(root);
-        return ans;
-    }
+        Stack<TreeNode> stack = new Stack<>();
 
-    private void inorder(TreeNode root) {
-        if (root == null) {
-            return;
+        while (root != null || !stack.isEmpty()) {
+            while (root != null) {
+                stack.push(root);
+                root = root.left;
+            }
+            root = stack.pop();
+            ans.add(root.val);
+            root = root.right;
         }
-        inorder(root.left);
-        ans.add(root.val);
-        inorder(root.right);
+        return ans;
     }
 }
