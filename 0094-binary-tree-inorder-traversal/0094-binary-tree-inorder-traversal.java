@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    
+    // Recursive O(n) time, O(n) space
     List<Integer> ans;
 
     public List<Integer> inorderTraversal(TreeNode root) {
