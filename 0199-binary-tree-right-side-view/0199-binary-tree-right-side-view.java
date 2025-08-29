@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    // BFS O(n) time, O(n) space
+    // BFS O(n) time, O(w) space, w is maximum width/max nodes at any level
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
         if (root == null) {
