@@ -1,5 +1,6 @@
 class Solution {
-
+    
+    // Recursive Backtracking O(n * 2^n) time, O(n) space
     List<List<Integer>> ans;
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
