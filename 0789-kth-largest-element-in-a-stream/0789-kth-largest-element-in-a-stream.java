@@ -26,7 +26,7 @@ class KthLargest {
     //     // return arr.get(arr.size() - 1) since kth largest is now at end of array
     // }
 
-    // Min Heap approach O(n log k) time for building heap, O(k) space since we store at most k elements in min heap
+    // Min Heap approach O(n log k) time for building heap, O(k) space since we store k elements in min heap
     PriorityQueue<Integer> minHeap;
     int K;
 
