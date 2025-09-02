@@ -9,6 +9,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshKamal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrakarshKamal/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/PrakarshKamal/leetcode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
@@ -238,6 +239,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0113-path-sum-ii) |
