@@ -38,7 +38,7 @@ class KthLargest {
             minHeap.offer(num);
 
             if (minHeap.size() > K) {
-                minHeap.poll();
+                minHeap.poll(); // maintain only kth largest elements
             }
         }
     }
@@ -47,7 +47,7 @@ class KthLargest {
         minHeap.offer(val);
 
         if (minHeap.size() > K) {
-            minHeap.poll();
+            minHeap.poll();// maintain only kth largest elements
         }
 
         return minHeap.peek();
