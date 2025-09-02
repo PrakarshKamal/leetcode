@@ -21,7 +21,7 @@ class Solution {
             return;
         }
 
-        // we choose index
+        // we choose index and recurse
         combos.add(candidates[idx]);
 
         comboSum(candidates, idx, target - candidates[idx], combos);
