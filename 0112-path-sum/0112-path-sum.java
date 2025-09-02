@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // Recursive DFS O(n) time, O(n) space
     public boolean hasPathSum(TreeNode root, int targetSum) {
         if (root == null) {
             return false;
