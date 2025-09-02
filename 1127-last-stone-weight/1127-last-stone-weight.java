@@ -1,6 +1,6 @@
 class Solution {
+    // Brute force sorting approach, O(n log n) time, O(n) space
     public int lastStoneWeight(int[] stones) {
-        
         List<Integer> arr = new ArrayList<>();
         for (int stone : stones) {
             arr.add(stone);
