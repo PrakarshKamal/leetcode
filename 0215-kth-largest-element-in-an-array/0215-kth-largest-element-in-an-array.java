@@ -13,7 +13,7 @@ class Solution {
         // Collections.sort(ans, Collections.reverseOrder()); 
         // return ans.get(k - 1); 
 
-
+        // Min heap approach, O(n log k) time, O(k) space
         PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
         for (int num : nums) {
