@@ -23,6 +23,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/PrakarshKamal/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/PrakarshKamal/leetcode/tree/master/1127-last-stone-weight) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrakarshKamal/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -52,6 +53,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -92,12 +94,14 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/PrakarshKamal/leetcode/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -112,6 +116,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +124,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrakarshKamal/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -271,4 +277,8 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
