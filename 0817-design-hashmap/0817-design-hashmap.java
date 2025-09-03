@@ -16,6 +16,7 @@ class MyHashMap {
     Node[] table;
     final int PRIME = 1051; // big prime number
 
+    // O(n) time, O(n) space
     public MyHashMap() {
         table = new Node[PRIME];
     }
