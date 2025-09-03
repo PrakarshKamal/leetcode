@@ -4,7 +4,7 @@ class Solution {
         // We have to use Integer.compare as we have int[] in heap
         PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a,b) -> Integer.compare(distance(b), distance(a))); 
 
-        //
+        // k is same as input so we can return points
         if (k == points.length) {
             return points;
         }
