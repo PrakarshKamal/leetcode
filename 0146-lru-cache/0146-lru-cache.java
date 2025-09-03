@@ -5,6 +5,7 @@ class LRUCache {
     DLLNode head;
     DLLNode tail;
 
+    // O(1) time, O(n) space
     public LRUCache(int capacity) {
         this.capacity = capacity;
         map = new HashMap<>();
