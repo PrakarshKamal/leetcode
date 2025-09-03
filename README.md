@@ -43,6 +43,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0013-roman-to-integer](https://github.com/PrakarshKamal/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/PrakarshKamal/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/PrakarshKamal/leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PrakarshKamal/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/PrakarshKamal/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PrakarshKamal/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -134,6 +136,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PrakarshKamal/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/PrakarshKamal/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
@@ -158,6 +161,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PrakarshKamal/leetcode/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
