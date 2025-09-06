@@ -26,7 +26,7 @@ class Solution {
 
         // q not empty and we have fresh oranges to rot
         while (!q.isEmpty() && fresh > 0) {
-            int size = q.size();
+            int size = q.size(); // get current q size so we iterate only that level
             
             for (int i = 0; i < size; i++) {
                 int[] rotten = q.poll(); // get current rotten orange from q
