@@ -28,6 +28,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0907-koko-eating-bananas](https://github.com/PrakarshKamal/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/PrakarshKamal/leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
@@ -160,6 +161,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Recursion
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
