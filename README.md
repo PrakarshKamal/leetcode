@@ -15,6 +15,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PrakarshKamal/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -154,6 +155,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0036-valid-sudoku](https://github.com/PrakarshKamal/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0144-binary-tree-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PrakarshKamal/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PrakarshKamal/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -298,4 +302,8 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/PrakarshKamal/leetcode/tree/master/0817-design-hashmap) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
