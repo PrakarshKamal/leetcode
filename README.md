@@ -22,6 +22,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/PrakarshKamal/leetcode/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/PrakarshKamal/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -157,6 +158,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0074-search-a-2d-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 ## Recursion
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0199-binary-tree-right-side-view](https://github.com/PrakarshKamal/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0199-binary-tree-right-side-view](https://github.com/PrakarshKamal/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -306,4 +310,5 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
