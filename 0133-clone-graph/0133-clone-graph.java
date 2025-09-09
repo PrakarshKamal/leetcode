@@ -20,13 +20,13 @@ class Node {
 
 class Solution {
     // DFS O(V + E) time, O(V) space
-    public Node cloneGraph(Node node) {
-        Map<Node, Node> map = new HashMap<>();
+    Map<Node, Node> map = new HashMap<>();
 
-        return dfs(node, map);
+    public Node cloneGraph(Node node) {
+        return dfs(node);
     }
 
-    private Node dfs(Node node, Map<Node, Node> map) {
+    private Node dfs(Node node) {
         if (node == null) {
             return node;
         }
@@ -39,7 +39,7 @@ class Solution {
         map.put(node, clone);
 
         for (Node neighbors : node.neighbors) {
-            clone.neighbors.add(dfs(neighbors, map));
+            clone.neighbors.add(dfs(neighbors));
         }
         return clone;
     }
