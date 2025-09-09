@@ -1,7 +1,8 @@
 class Solution {
     
     Map<Integer, List<Integer>> map = new HashMap<>(); // course -> prereq[] map
-    Set<Integer> visited = new HashSet<>();
+    Set<Integer> visiting = new HashSet<>(); // nodes in current DFS path
+    Set<Integer> visited = new HashSet<>(); // nodes already processed
 
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         // initially setting to empty lists
@@ -25,15 +26,14 @@ class Solution {
     }
 
     private boolean dfs(int course) {
-        if (visited.contains(course)) {
+        if (visiting.contains(course)) {
             return false; // cycle detected since course already in set
         }
-
-        if (map.get(course).isEmpty()) {
-            return true;
+        if (visited.contains(course)) {
+            return true; // already checked that course can be completed
         }
 
-        visited.add(course);
+        visiting.add(course);
 
         for (int prereq : map.get(course)) {
             if (!dfs(prereq)) {
@@ -41,8 +41,8 @@ class Solution {
             }
         }
 
-        visited.remove(course); // course can be taken but remove from set as we have already visited it
-        map.put(course, new ArrayList<>());
+        visiting.remove(course); // course can be taken but remove from set as we have already visited it
+        visited.add(course); // add to visited confirming we can take this course
         return true;
     }
 }
