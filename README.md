@@ -190,6 +190,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrakarshKamal/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
