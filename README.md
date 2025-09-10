@@ -14,6 +14,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0074-search-a-2d-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/PrakarshKamal/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/PrakarshKamal/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0338-counting-bits) |
