@@ -11,6 +11,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0036-valid-sudoku](https://github.com/PrakarshKamal/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0090-subsets-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
