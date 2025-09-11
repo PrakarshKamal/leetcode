@@ -17,6 +17,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0090-subsets-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/PrakarshKamal/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
@@ -195,6 +196,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
