@@ -7,6 +7,9 @@ class Solution {
             // if currSum ever negative, we reset to 0 since we     
             // don't  wanna add a negative sum to further elems
             currSum = Math.max(currSum, 0); 
+            // if (currSum < 0) {
+            //     currSum = 0;     same as above
+            // }
             currSum += num;
             maxSum = Math.max(maxSum, currSum);
         }
