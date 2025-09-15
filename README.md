@@ -44,6 +44,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshKamal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrakarshKamal/leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/PrakarshKamal/leetcode/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/PrakarshKamal/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0013-roman-to-integer](https://github.com/PrakarshKamal/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PrakarshKamal/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/PrakarshKamal/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1894-merge-strings-alternately](https://github.com/PrakarshKamal/leetcode/tree/master/1894-merge-strings-alternately) |
