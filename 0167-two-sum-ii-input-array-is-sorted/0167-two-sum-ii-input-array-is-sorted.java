@@ -1,4 +1,5 @@
 class Solution {
+    // Two Pointers O(n) time, O(1) space
     public int[] twoSum(int[] numbers, int target) {
         int left = 0;
         int right = numbers.length - 1;
@@ -6,10 +7,10 @@ class Solution {
         while (left < right) {
             int sum = numbers[left] + numbers[right];
 
-            if (sum > target) {
+            if (target < sum) {
                 right--;
             }
-            else if (sum < target) {
+            else if (target > sum) {
                 left++;
             }
             else {
