@@ -58,6 +58,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0817-design-hashmap](https://github.com/PrakarshKamal/leetcode/tree/master/0817-design-hashmap) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0020-valid-parentheses](https://github.com/PrakarshKamal/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1894-merge-strings-alternately](https://github.com/PrakarshKamal/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
@@ -354,4 +356,5 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrakarshKamal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
