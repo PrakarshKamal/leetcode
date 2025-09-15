@@ -1,5 +1,5 @@
 class Solution {
-    // Sliding Window O(n) time, O(m) space, m is no. of chars in s
+    // Sliding Window O(n) time, O(1) space since only 26 letters
     public int characterReplacement(String s, int k) {
         Map<Character, Integer> map = new HashMap<>();
         int left = 0, maxFreq = 0, length = 0;
