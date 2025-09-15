@@ -4,8 +4,8 @@ class Solution {
         Map<Character, Integer> map = new HashMap<>();
         int left = 0, maxFreq = 0, length = 0;
 
-        if (s.length() == 1) return 1;
-        if (s.length() == k) return k; // can replace entire string
+        // if (s.length() == 1) return 1;
+        // if (s.length() == k) return k; // can replace entire string
 
         // Expand window with right pointer
         for (int right = 0; right < s.length(); right++) {
