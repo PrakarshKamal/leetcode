@@ -6,6 +6,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/PrakarshKamal/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshKamal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrakarshKamal/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/PrakarshKamal/leetcode/tree/master/0036-valid-sudoku) |
@@ -44,6 +45,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrakarshKamal/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshKamal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrakarshKamal/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -368,4 +370,8 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrakarshKamal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PrakarshKamal/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
