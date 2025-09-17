@@ -31,6 +31,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0304-range-sum-query-2d-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/PrakarshKamal/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/PrakarshKamal/leetcode/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/PrakarshKamal/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -180,6 +181,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0238-product-of-array-except-self](https://github.com/PrakarshKamal/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0724-find-pivot-index](https://github.com/PrakarshKamal/leetcode/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
 | ------- |
