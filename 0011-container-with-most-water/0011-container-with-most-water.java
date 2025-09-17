@@ -11,13 +11,12 @@ class Solution {
             int area = Math.min(height[left], height[right]) * (right - left);
             max = Math.max(max, area);
 
-            // to maximize width, we left height if its smaller than right height
-            // since we could get new taller height[left]
+            // to maximize width, we compare left height to right height
             if (height[left] < height[right]) {
-                left++;
+                left++; // try to find new taller left wall
             }
             else {
-                right--;
+                right--; // try to find new taller right wall
             }
         }
         return max;
