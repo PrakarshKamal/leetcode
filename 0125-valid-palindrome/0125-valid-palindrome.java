@@ -35,7 +35,8 @@ class Solution {
     }
 
     private boolean isPalindromeHelper(String s, int left, int right) {
-        if (left >= right) return true;
+        // base case, pointers crossed so nothing to check
+        if (left >= right) return true; 
 
         if (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
             return isPalindromeHelper(s, left + 1, right);
