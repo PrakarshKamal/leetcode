@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    // Recursive DFS O(n) time, O(h) space
+    // Recursive DFS O(n) time, O(n) space in worst case
     public boolean isBalanced(TreeNode root) {
         if (root == null) {
             return true;
