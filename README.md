@@ -102,6 +102,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1894-merge-strings-alternately](https://github.com/PrakarshKamal/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2427-first-letter-to-appear-twice](https://github.com/PrakarshKamal/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3312-number-of-changing-keys](https://github.com/PrakarshKamal/leetcode/tree/master/3312-number-of-changing-keys) |
 ## Stack
 |  |
 | ------- |
