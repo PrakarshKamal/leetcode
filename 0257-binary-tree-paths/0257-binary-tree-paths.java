@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // DFS O(n) time, O(n) space
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> ans = new ArrayList<>();
 
