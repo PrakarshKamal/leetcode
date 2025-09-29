@@ -14,35 +14,27 @@
  * }
  */
 class Solution {
-    // BFS O(n) time, O(w) space, w is maximum width/max nodes at any level
+    // Since Preorder is Root Left Right, we can do
+    // reverse Preorder, which is Root Right Left
+    // this will give the first node from right which is the ans
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
         if (root == null) {
             return ans;
         }
-
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-
-        while (q.size() > 0) {
-
-            int levelLength = q.size();
-
-            for (int i = 0; i < levelLength; i++) {
-                TreeNode curr = q.poll();
-
-                // Record last/rightmost node in this level
-                if (i == levelLength - 1) {
-                    ans.add(curr.val);
-                }
-                if (curr.left != null) {
-                    q.offer(curr.left);
-                }
-                if (curr.right != null) {
-                    q.offer(curr.right);
-                }
-            }
-        }
+        dfs(root, ans, 0);
         return ans;
+    }
+
+    // DFS O(n) time, O(h) space
+    private void dfs(TreeNode root, List<Integer> ans, int level) {
+        if (root == null) {
+            return;
+        }
+        if (level == ans.size()) {
+            ans.add(root.val);
+        }
+        dfs(root.right, ans, level + 1);
+        dfs(root.left, ans, level + 1);
     }
 }
