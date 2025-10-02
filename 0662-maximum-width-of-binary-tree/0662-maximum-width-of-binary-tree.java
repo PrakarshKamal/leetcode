@@ -25,6 +25,7 @@ class Pair {
 }
 
 class Solution {
+    // BFS O(n) time, O(n) space
     public int widthOfBinaryTree(TreeNode root) {
         Queue<Pair> q = new ArrayDeque<>();
         int max = 0;
@@ -46,7 +47,7 @@ class Solution {
                 if (i == size - 1) {
                     end = currIdx;
                 }
-
+                
                 if (curr.left != null) {
                     q.offer(new Pair(curr.left, (2*currIdx) + 1));
                 }
