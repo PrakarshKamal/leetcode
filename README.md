@@ -262,6 +262,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2384-root-equals-sum-of-children](https://github.com/PrakarshKamal/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2384-root-equals-sum-of-children](https://github.com/PrakarshKamal/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Merge Sort
 |  |
 | ------- |
