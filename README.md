@@ -103,6 +103,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0125-valid-palindrome](https://github.com/PrakarshKamal/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PrakarshKamal/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/PrakarshKamal/leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1894-merge-strings-alternately](https://github.com/PrakarshKamal/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -126,6 +127,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0146-lru-cache](https://github.com/PrakarshKamal/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/PrakarshKamal/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PrakarshKamal/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -265,6 +267,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0226-invert-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PrakarshKamal/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PrakarshKamal/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -291,6 +294,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0226-invert-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PrakarshKamal/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -308,6 +312,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/PrakarshKamal/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
@@ -333,6 +338,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0226-invert-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PrakarshKamal/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PrakarshKamal/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
