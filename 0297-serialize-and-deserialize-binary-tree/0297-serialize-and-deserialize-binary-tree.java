@@ -36,6 +36,9 @@ public class Codec {
 
         Queue<TreeNode> q = new LinkedList<>();
         String[] values = data.split(",");
+        if (values.length == 0 || values[0].equals("N")) {
+            return null;
+        }
 
         TreeNode root = new TreeNode(Integer.parseInt(values[0]));
         q.add(root);
@@ -57,6 +60,7 @@ public class Codec {
             }
             i++;
         }
+        System.out.println(root);
         return root;
     }
 }
