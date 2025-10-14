@@ -1,4 +1,5 @@
 class Solution {
+    // String O(n) time, O(1) space
     public int longestBeautifulSubstring(String word) {
         int maxLen = 0;
         int currLen = 1;
