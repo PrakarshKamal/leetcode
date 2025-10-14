@@ -35,6 +35,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKamal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/PrakarshKamal/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/PrakarshKamal/leetcode/tree/master/0817-design-hashmap) |
@@ -76,6 +77,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKamal/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0697-degree-of-an-array) |
 | [0817-design-hashmap](https://github.com/PrakarshKamal/leetcode/tree/master/0817-design-hashmap) |
 | [2427-first-letter-to-appear-twice](https://github.com/PrakarshKamal/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
