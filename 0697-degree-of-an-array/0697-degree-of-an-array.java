@@ -22,10 +22,12 @@ class Solution {
     // }
 
 
+    // Solution 2 One Map O(n) time, O(n) space
     public int findShortestSubArray(int[] nums) {
         int degree = 0;
         int minLength = nums.length;
-        Map<Integer, int[]> map = new HashMap<>();
+        // int[] is [firstOccurrence, lastOccurrence, count]
+        Map<Integer, int[]> map = new HashMap<>(); 
 
         for (int i = 0; i < nums.length; i++) {
             if (!map.containsKey(nums[i])) {
