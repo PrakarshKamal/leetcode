@@ -107,6 +107,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0344-reverse-string](https://github.com/PrakarshKamal/leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1894-merge-strings-alternately](https://github.com/PrakarshKamal/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/PrakarshKamal/leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/PrakarshKamal/leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2427-first-letter-to-appear-twice](https://github.com/PrakarshKamal/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3312-number-of-changing-keys](https://github.com/PrakarshKamal/leetcode/tree/master/3312-number-of-changing-keys) |
@@ -428,6 +429,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrakarshKamal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/PrakarshKamal/leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Greedy
 |  |
 | ------- |
