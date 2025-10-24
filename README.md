@@ -118,6 +118,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrakarshKamal/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -190,6 +191,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PrakarshKamal/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/PrakarshKamal/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/PrakarshKamal/leetcode/tree/master/0817-design-hashmap) |
@@ -265,6 +267,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PrakarshKamal/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -289,6 +292,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/PrakarshKamal/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -336,6 +340,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0111-minimum-depth-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PrakarshKamal/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PrakarshKamal/leetcode/tree/master/0199-binary-tree-right-side-view) |
