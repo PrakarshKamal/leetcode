@@ -190,6 +190,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0795-k-th-symbol-in-grammar](https://github.com/PrakarshKamal/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2571-find-the-pivot-integer](https://github.com/PrakarshKamal/leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Linked List
 |  |
@@ -253,10 +254,12 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0152-maximum-product-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
