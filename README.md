@@ -31,6 +31,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PrakarshKamal/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0146-lru-cache](https://github.com/PrakarshKamal/leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKamal/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +92,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0215-kth-largest-element-in-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -187,6 +190,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0013-roman-to-integer](https://github.com/PrakarshKamal/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PrakarshKamal/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrakarshKamal/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -382,6 +386,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0136-single-number](https://github.com/PrakarshKamal/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrakarshKamal/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2427-first-letter-to-appear-twice](https://github.com/PrakarshKamal/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -400,6 +405,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshKamal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/PrakarshKamal/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/PrakarshKamal/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
