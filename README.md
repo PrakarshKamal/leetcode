@@ -110,6 +110,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0020-valid-parentheses](https://github.com/PrakarshKamal/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PrakarshKamal/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/PrakarshKamal/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PrakarshKamal/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -256,6 +257,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrakarshKamal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/PrakarshKamal/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshKamal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -399,6 +401,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/PrakarshKamal/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/PrakarshKamal/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search
 |  |
