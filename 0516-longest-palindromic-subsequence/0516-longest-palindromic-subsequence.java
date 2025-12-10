@@ -23,30 +23,56 @@
 // }
 
 // Memo top down
+// class Solution {
+//     public int longestPalindromeSubseq(String s) {
+//         int n = s.length();
+//         int[][] dp = new int[n][n];
+//         for(int[] row : dp) {
+//             Arrays.fill(row, -1);
+//         }
+//         return helper(0, n-1, s, dp);
+//     }
+//     public int helper(int i, int j, String s, int[][] dp) {
+//         if (i > j) return 0;
+//         if (i == j) return 1; // length 1
+
+//         if (dp[i][j] != -1) return dp[i][j];
+
+//         if (s.charAt(i) == s.charAt(j)) {
+//             dp[i][j] = 2 + helper(i+1, j-1, s, dp);
+//             return dp[i][j];
+//         }
+//         else {
+//             int moveLeft = helper(i, j-1, s, dp);
+//             int moveRight = helper(i+1, j, s, dp);
+//             dp[i][j] = Math.max(moveLeft, moveRight);
+//             return dp[i][j];
+//         }
+//     }
+// }
+
 class Solution {
     public int longestPalindromeSubseq(String s) {
         int n = s.length();
         int[][] dp = new int[n][n];
-        for(int[] row : dp) {
-            Arrays.fill(row, -1);
-        }
-        return helper(0, n-1, s, dp);
-    }
-    public int helper(int i, int j, String s, int[][] dp) {
-        if (i > j) return 0;
-        if (i == j) return 1; // length 1
 
-        if (dp[i][j] != -1) return dp[i][j];
+        for (int len = 1; len <= n; len++) {
+            for (int i = 0; i <= n-len; i++) {
+                int j = i+len-1;
 
-        if (s.charAt(i) == s.charAt(j)) {
-            dp[i][j] = 2 + helper(i+1, j-1, s, dp);
-            return dp[i][j];
+                if (i == j) {
+                    dp[i][j] = 1;
+                }
+                else if (s.charAt(i) == s.charAt(j)) {
+                    dp[i][j] = 2 + dp[i+1][j-1];
+                }
+                else {
+                    int moveLeft = dp[i][j-1];
+                    int moveRight = dp[i+1][j];
+                    dp[i][j] = Math.max(moveLeft, moveRight);
+                }
+            }
         }
-        else {
-            int moveLeft = helper(i, j-1, s, dp);
-            int moveRight = helper(i+1, j, s, dp);
-            dp[i][j] = Math.max(moveLeft, moveRight);
-            return dp[i][j];
-        }
+        return dp[0][n-1];
     }
 }
