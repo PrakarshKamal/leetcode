@@ -22,6 +22,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrakarshKamal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PrakarshKamal/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/PrakarshKamal/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshKamal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -74,6 +75,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/PrakarshKamal/leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/PrakarshKamal/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/PrakarshKamal/leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
@@ -111,6 +113,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PrakarshKamal/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/PrakarshKamal/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/PrakarshKamal/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PrakarshKamal/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -258,6 +261,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0053-maximum-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrakarshKamal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/PrakarshKamal/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/PrakarshKamal/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshKamal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -266,6 +270,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/PrakarshKamal/leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
@@ -461,4 +466,8 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrakarshKamal/leetcode/tree/master/0011-container-with-most-water) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/PrakarshKamal/leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PrakarshKamal/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
