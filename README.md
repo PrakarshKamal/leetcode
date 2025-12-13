@@ -52,6 +52,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrakarshKamal/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/PrakarshKamal/leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
@@ -104,6 +105,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrakarshKamal/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
