@@ -308,6 +308,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/PrakarshKamal/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0513-find-bottom-left-tree-value](https://github.com/PrakarshKamal/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/PrakarshKamal/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Merge Sort
 |  |
