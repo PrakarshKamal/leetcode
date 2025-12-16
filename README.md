@@ -65,6 +65,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0125-valid-palindrome](https://github.com/PrakarshKamal/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrakarshKamal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/PrakarshKamal/leetcode/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/PrakarshKamal/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/PrakarshKamal/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0344-reverse-string](https://github.com/PrakarshKamal/leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshKamal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/PrakarshKamal/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/PrakarshKamal/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/PrakarshKamal/leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/PrakarshKamal/leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
