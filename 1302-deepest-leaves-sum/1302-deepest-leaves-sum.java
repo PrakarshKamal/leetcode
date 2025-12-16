@@ -21,12 +21,12 @@ class Solution {
         
         while (!q.isEmpty()) {
             int level = q.size();
-            ans = 0;
+            ans = 0; // reset to 0 for each level until end
             for (int i = 0; i < level; i++) {
                 TreeNode curr = q.poll();
+                ans += curr.val;
                 if (curr.left != null) q.offer(curr.left);
                 if (curr.right != null) q.offer(curr.right);
-                ans += curr.val;
             }
         }
         return ans;
