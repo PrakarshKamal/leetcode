@@ -17,6 +17,7 @@ class Node {
 };
 */
 
+// O(n) time, O(n) rec stack space
 class Solution {
     public int maxDepth(Node root) {
         if (root == null) return 0;
