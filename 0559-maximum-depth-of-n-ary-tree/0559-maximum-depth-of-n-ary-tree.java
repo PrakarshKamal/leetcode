@@ -24,6 +24,6 @@ class Solution {
         for (Node node : root.children) {
             depth = Math.max(maxDepth(node), depth);
         }
-        return depth+1;
+        return 1 + depth; // 1 for root level
     }
 }
