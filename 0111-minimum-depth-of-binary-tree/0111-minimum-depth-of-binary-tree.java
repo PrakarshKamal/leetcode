@@ -13,6 +13,8 @@
  *     }
  * }
  */
+ 
+// O(n) time, O(n) space
 class Solution {
     public int minDepth(TreeNode root) {
         if (root == null) return 0;
