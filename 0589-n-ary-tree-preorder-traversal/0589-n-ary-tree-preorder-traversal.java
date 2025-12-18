@@ -17,6 +17,7 @@ class Node {
 };
 */
 
+// O(n) time, O(n) space
 class Solution {
     public List<Integer> preorder(Node root) {
         List<Integer> ans = new ArrayList<>();
