@@ -15,18 +15,43 @@
  */
 
 // O(n) time, O(n) space
+// class Solution {
+//     public int kthSmallest(TreeNode root, int k) {
+//         List<Integer> ans = new ArrayList<>();
+//         inorder(root, ans);
+//         return ans.get(k-1); // k-1 since 1-indexed, list is 0-indexed        
+//     }
+
+//     public void inorder(TreeNode root, List<Integer> ans) {
+//         if (root == null) return;
+
+//         inorder(root.left, ans);
+//         ans.add(root.val);
+//         inorder(root.right, ans);
+//     }
+// }
+
 class Solution {
+    int count = 0;
+    int ans = 0;
+
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> ans = new ArrayList<>();
-        inorder(root, ans);
-        return ans.get(k-1); // k-1 since 1-indexed, list is 0-indexed        
+        return inorder(root, k);
     }
 
-    public void inorder(TreeNode root, List<Integer> ans) {
-        if (root == null) return;
+    public int inorder(TreeNode root, int k) {
+        if (root == null) return 0;
 
-        inorder(root.left, ans);
-        ans.add(root.val);
-        inorder(root.right, ans);
+        inorder(root.left, k);
+
+        count++;
+        if (count == k) {
+            ans = root.val;
+            return ans;
+        }
+
+        inorder(root.right, k);
+
+        return ans;
     }
 }
