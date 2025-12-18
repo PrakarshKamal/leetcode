@@ -13,20 +13,20 @@
  *     }
  * }
  */
+
+// O(n) time, O(n) space
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
         List<Integer> ans = new ArrayList<>();
         inorder(root, ans);
-        return ans.get(k-1);
+        return ans.get(k-1); // k-1 since 1-indexed, list is 0-indexed        
     }
 
     public void inorder(TreeNode root, List<Integer> ans) {
         if (root == null) return;
 
         inorder(root.left, ans);
-
         ans.add(root.val);
-
         inorder(root.right, ans);
     }
 }
