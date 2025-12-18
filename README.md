@@ -142,6 +142,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/PrakarshKamal/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PrakarshKamal/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrakarshKamal/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -310,6 +311,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0501-find-mode-in-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrakarshKamal/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -342,6 +344,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0501-find-mode-in-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrakarshKamal/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
