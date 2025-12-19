@@ -271,6 +271,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/PrakarshKamal/leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrakarshKamal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/PrakarshKamal/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -291,6 +292,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0100-same-tree) |
@@ -390,6 +392,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0100-same-tree) |
@@ -454,6 +457,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0039-combination-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/PrakarshKamal/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/PrakarshKamal/leetcode/tree/master/0257-binary-tree-paths) |
@@ -478,6 +482,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PrakarshKamal/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
