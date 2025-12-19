@@ -21,7 +21,7 @@ class Solution {
         return helper(0, n-1, nums);
     }
     public TreeNode helper(int start, int end, int[] nums) {
-        if (start > end) {
+        if (start > end) { // base case
             return null;
         }
         int mid = (start+end) / 2;
