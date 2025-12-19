@@ -8,6 +8,7 @@
  * }
  */
 
+// O(n) time, O(n) space
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         // both p and q are in right subtree
