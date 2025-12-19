@@ -15,21 +15,40 @@
  */
 
 // Using List to store inorder and checking i and i-1 val
+// class Solution {
+//     List<Integer> bst = new ArrayList<>();
+//     public boolean isValidBST(TreeNode root) {
+//         inorder(root);
+//         for (int i = 1; i < bst.size(); i++) {
+//             if (bst.get(i) <= bst.get(i-1)) {
+//                 return false;
+//             }
+//         }
+//         return true;
+//     }
+//     public void inorder(TreeNode root) {
+//         if (root == null) return;
+//         inorder(root.left);
+//         bst.add(root.val);
+//         inorder(root.right);
+//     }
+// }
+
+// O(n) time, O(n) space
 class Solution {
-    List<Integer> bst = new ArrayList<>();
     public boolean isValidBST(TreeNode root) {
-        inorder(root);
-        for (int i = 1; i < bst.size(); i++) {
-            if (bst.get(i) <= bst.get(i-1)) {
-                return false;
-            }
-        }
-        return true;
+        return helper(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
-    public void inorder(TreeNode root) {
-        if (root == null) return;
-        inorder(root.left);
-        bst.add(root.val);
-        inorder(root.right);
+    public boolean helper(TreeNode root, long MIN, long MAX) {
+        if (root == null) return true;
+        
+        // not in range
+        if (root.val <= MIN || root.val >= MAX) {
+            return false;
+        }
+        boolean left = helper(root.left, MIN, root.val);
+        boolean right = helper(root.right, root.val, MAX);
+        
+        return left && right;
     }
 }
