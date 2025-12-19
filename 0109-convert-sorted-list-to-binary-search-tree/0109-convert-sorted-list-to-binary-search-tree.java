@@ -42,7 +42,7 @@ class Solution {
         }
         int mid = (start+end) / 2;
         TreeNode left = helper(start, mid-1);
-        TreeNode root = new TreeNode(curr.val);
+        TreeNode root = new TreeNode(curr.val); // inorder step
         root.left = left;
         curr = curr.next;
         root.right = helper(mid+1, end);
