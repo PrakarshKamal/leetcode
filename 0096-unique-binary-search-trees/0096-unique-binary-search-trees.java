@@ -1,16 +1,37 @@
+// Recursion
+// class Solution {
+//     public int numTrees(int n) {
+//         return helper(n);
+//     }
+//     public int helper(int n) {
+//         if (n <= 1) return 1;
+//         int ans = 0;
+//         for (int root = 1; root <= n; root++) {
+//             ans += helper(root-1) * helper(n-root);
+//         }
+//         return ans;
+//     }
+// }
+
+// Top down
 class Solution {
     public int numTrees(int n) {
-        return helper(n);
+        Integer[] dp = new Integer[n+1];
+        return helper(n, dp);
     }
-    public int helper(int n) {
+    public int helper(int n, Integer[] dp) {
         if (n <= 1) return 1;
+        if (dp[n] != null) return dp[n];
         int ans = 0;
         for (int root = 1; root <= n; root++) {
-            ans += helper(root-1) * helper(n-root);
+            ans += helper(root-1, dp) * helper(n-root, dp);
         }
-        return ans;
+        dp[n] = ans;
+        return dp[n];
     }
 }
+
+
 
 // Bottom up O(n^2) time, O(n) space
 // class Solution {
