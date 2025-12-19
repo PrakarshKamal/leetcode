@@ -204,6 +204,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0013-roman-to-integer](https://github.com/PrakarshKamal/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PrakarshKamal/leetcode/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrakarshKamal/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -270,6 +271,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/PrakarshKamal/leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrakarshKamal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/PrakarshKamal/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PrakarshKamal/leetcode/tree/master/0139-word-break) |
@@ -289,6 +291,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0101-symmetric-tree) |
@@ -387,6 +390,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0101-symmetric-tree) |
@@ -474,6 +478,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PrakarshKamal/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
