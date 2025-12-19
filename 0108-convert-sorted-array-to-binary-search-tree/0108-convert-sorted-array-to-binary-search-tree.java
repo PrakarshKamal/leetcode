@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+// O(n) time, O(n) space
 class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
         int n = nums.length;
@@ -24,10 +26,6 @@ class Solution {
         }
         int mid = (start+end) / 2;
         TreeNode root = new TreeNode(nums[mid]);
-        
-        if (start == end) {
-            root = new TreeNode(nums[start]);
-        }
         
         root.left = helper(start, mid-1, nums);
         root.right = helper(mid+1, end, nums);
