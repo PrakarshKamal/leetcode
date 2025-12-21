@@ -13,6 +13,7 @@
  *     }
  * }
  */
+
 class Solution {
     public List<TreeNode> allPossibleFBT(int n) {
         return helper(n);
@@ -20,7 +21,7 @@ class Solution {
     public List<TreeNode> helper(int n) {
         List<TreeNode> ans = new ArrayList<>();
         TreeNode root = new TreeNode(0);
-        if (n == 1) {
+        if (n <= 1) { // base case
             ans.add(root);
             return ans;
         }
