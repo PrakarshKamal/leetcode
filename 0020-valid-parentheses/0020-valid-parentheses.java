@@ -1,26 +1,25 @@
 class Solution {
-    // Stack O(n) time, O(n) space
     public boolean isValid(String s) {
-        if (s.length() == 1) return false;
-        Stack<Character> stack = new Stack<>();
+        if (s.length() <= 1) return false;
+        Stack<Character> st = new Stack<>();
 
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
-            if (c == '(' || c == '[' || c == '{') {
-                stack.push(c);
+            if (c== '(' || c == '[' || c == '{') {
+                st.push(c);
             }
             else {
-                if (stack.isEmpty()) return false;
+                if (st.isEmpty()) return false;
 
-                char top = stack.pop();
+                char top = st.pop();
 
-                if (c == ')' && top != '(' ||
-                    c == ']' && top != '[' || 
-                    c == '}' && top != '{') {
+                if (top == '(' && c != ')' ||
+                    top == '[' && c != ']' ||
+                    top == '{' && c != '}') {
                         return false;
                     }
             }
         }
-        return stack.isEmpty();
+        return st.isEmpty();
     }
 }
