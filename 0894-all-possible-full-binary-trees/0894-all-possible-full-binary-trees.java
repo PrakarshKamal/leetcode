@@ -46,6 +46,7 @@
 //     }
 // }
 
+// Top down memo
 class Solution {
     public List<TreeNode> allPossibleFBT(int n) {
         List<TreeNode>[] dp = new ArrayList[n+1];
@@ -54,7 +55,8 @@ class Solution {
     public List<TreeNode> helper(int n, List<TreeNode>[] dp) {
         List<TreeNode> ans = new ArrayList<>();
         if (dp[n] != null) return dp[n];
-        if (n == 1) { // base case
+        if (n % 2 == 0) return ans;
+        if (n == 1) { 
             ans.add(new TreeNode(0));
             return ans;
         }
