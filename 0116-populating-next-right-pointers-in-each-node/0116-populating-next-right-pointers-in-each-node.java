@@ -44,17 +44,16 @@ class Node {
 //     }  
 // }
 
+// O(n) time, O(1) space, rec stack space ignored for this question
 class Solution {
     public Node connect(Node root) {
         return helper(root, null);
-    }  
-
+    }
     public Node helper(Node root, Node next) {
         if (root == null) return null;
 
-        root.next = next; // setting pointer
+        root.next = next;
         helper(root.left, root.right);
-        // check root.next exists, if its last node on level, it may be null
         helper(root.right, root.next == null ? null : root.next.left);
         return root;
     }
