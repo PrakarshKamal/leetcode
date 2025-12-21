@@ -21,24 +21,41 @@ class Node {
 };
 */
 
+// O(n) time, O(n) space
+// class Solution {
+//     public Node connect(Node root) {
+//         Queue<Node> q = new LinkedList<>();
+//         if (root == null) return null;
+
+//         q.offer(root);
+//         while (!q.isEmpty()) {
+//             int size = q.size();
+//             for (int i = 0; i < size; i++) {
+//                 Node curr = q.poll();
+//                 if (i < size - 1) {
+//                     curr.next = q.peek(); // next node will always be at front of q
+//                 }
+    
+//                 if (curr.left != null) q.offer(curr.left);
+//                 if (curr.right != null) q.offer(curr.right);
+//             }
+//         }
+//         return root;
+//     }  
+// }
+
 class Solution {
     public Node connect(Node root) {
-        Queue<Node> q = new LinkedList<>();
+        return helper(root, null);
+    }  
+
+    public Node helper(Node root, Node next) {
         if (root == null) return null;
 
-        q.offer(root);
-        while (!q.isEmpty()) {
-            int size = q.size();
-            for (int i = 0; i < size; i++) {
-                Node curr = q.poll();
-                if (i < size - 1) {
-                    curr.next = q.peek(); // next node will always be at front of q
-                }
-    
-                if (curr.left != null) q.offer(curr.left);
-                if (curr.right != null) q.offer(curr.right);
-            }
-        }
+        root.next = next; // setting pointer
+        helper(root.left, root.right);
+        // check root.next exists, if its last node on level, it may be null
+        helper(root.right, root.next == null ? null : root.next.left);
         return root;
-    }  
+    }
 }
