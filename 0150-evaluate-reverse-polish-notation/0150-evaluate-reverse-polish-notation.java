@@ -1,34 +1,34 @@
-// O(n) time
-// O(n) space
+// O(n) time, O(n) space
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<Integer> stack = new Stack<>();
-
-        for (String s : tokens) {
+        Stack<Integer> st = new Stack<>();
+        int n = tokens.length;
+        for (int i = 0; i < n; i++) {
+            String s = tokens[i];
             if (s.equals("+")) {
-                int a = stack.pop();
-                int b = stack.pop();
-                stack.push(a + b);
+                int a = st.pop();
+                int b = st.pop();
+                st.push(a+b);
             }
             else if (s.equals("-")) {
-                int a = stack.pop();
-                int b = stack.pop();
-                stack.push(b - a);
+                int a = st.pop();
+                int b = st.pop();
+                st.push(b-a);
             }
             else if (s.equals("*")) {
-                int a = stack.pop();
-                int b = stack.pop();
-                stack.push(a * b);
+                int a = st.pop();
+                int b = st.pop();
+                st.push(a*b);
             }
             else if (s.equals("/")) {
-                int a = stack.pop();
-                int b = stack.pop();
-                stack.push(b / a);
+                int a = st.pop();
+                int b = st.pop();
+                st.push(b/a);
             }
             else {
-                stack.push(Integer.parseInt(s));
+                st.push(Integer.parseInt(s));
             }
         }
-        return stack.pop();
+        return st.pop();
     }
 }
