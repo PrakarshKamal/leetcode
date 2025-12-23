@@ -1,3 +1,4 @@
+// O(n*m) time, O(1) space
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> ans = new ArrayList<>();
