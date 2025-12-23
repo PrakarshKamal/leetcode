@@ -56,11 +56,9 @@ class Solution {
         boolean checkS2Chars = false;
         if (i < n && s1.charAt(i) == s3.charAt(k)) {
             checkS1Chars = helper(i+1, s1, j, s2, s3, dp);
-            dp[i][j] = checkS1Chars ? 1 : 0;
         }
         if (j < m && s2.charAt(j) == s3.charAt(k)) {
             checkS2Chars = helper(i, s1, j+1, s2, s3, dp);
-            dp[i][j] = checkS2Chars ? 1 : 0;
         }
         boolean ans = checkS1Chars || checkS2Chars;
         dp[i][j] = ans ? 1 : 0;
