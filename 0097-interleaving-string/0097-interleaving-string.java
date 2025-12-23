@@ -62,29 +62,62 @@
 //     }
 // }
 
+// Bottom up O(n*m) time, O(n*m) space
+// class Solution {
+//     public boolean isInterleave(String s1, String s2, String s3) {
+//         int n = s1.length();
+//         int m = s2.length();
+//         if (n+m != s3.length()) return false;
+
+//         boolean[][] dp = new boolean[n+1][m+1];
+//         dp[0][0] = true;
+
+//         for (int i = 0; i <= n; i++) {
+//             for (int j = 0; j <= m; j++) {
+//                 int k = i+j-1;
+//                 if (i == 0 && j == 0) {
+//                     continue;
+//                 }
+//                 if (i > 0 && s1.charAt(i-1) == s3.charAt(k)) {
+//                     dp[i][j] = dp[i][j] || dp[i-1][j];
+//                 }
+//                 if (j > 0 && s2.charAt(j-1) == s3.charAt(k)) {
+//                     dp[i][j] = dp[i][j] || dp[i][j-1];
+//                 }
+//             }
+//         }
+//         return dp[n][m];
+//     }
+// }
+
+// Bottom up space optimized
 class Solution {
     public boolean isInterleave(String s1, String s2, String s3) {
         int n = s1.length();
         int m = s2.length();
         if (n+m != s3.length()) return false;
 
-        boolean[][] dp = new boolean[n+1][m+1];
-        dp[0][0] = true;
+        boolean[] prev = new boolean[m+1]; 
+        
+        prev[0] = true;
 
         for (int i = 0; i <= n; i++) {
+            boolean[] curr = new boolean[m+1];
             for (int j = 0; j <= m; j++) {
                 int k = i+j-1;
                 if (i == 0 && j == 0) {
+                    curr[j] = true;
                     continue;
                 }
                 if (i > 0 && s1.charAt(i-1) == s3.charAt(k)) {
-                    dp[i][j] = dp[i][j] || dp[i-1][j];
+                    curr[j] = curr[j] || prev[j];
                 }
                 if (j > 0 && s2.charAt(j-1) == s3.charAt(k)) {
-                    dp[i][j] = dp[i][j] || dp[i][j-1];
+                    curr[j] = curr[j] || curr[j-1];
                 }
             }
+            prev = curr.clone();
         }
-        return dp[n][m];
+        return prev[m];
     }
 }
