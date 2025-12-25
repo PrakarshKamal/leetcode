@@ -30,7 +30,7 @@ class Solution {
             if (newI >= 0 && newJ >= 0 
                 && newI < n && newJ < m
                 && grid[newI][newJ] == '1' && !visited[newI][newJ]) {
-                    // visited[newI][newJ] = true;
+                    visited[newI][newJ] = true;
                 dfs(newI, newJ, n, m, grid, visited);
             }
         }
