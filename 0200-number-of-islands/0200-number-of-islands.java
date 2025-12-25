@@ -19,7 +19,7 @@ class Solution {
     }
 
     public void dfs(int i, int j, int n, int m, char[][] grid, boolean[][] visited) {
-        // visited[i][j] = true;
+        visited[i][j] = true;
         int[][] directions = {
             {0, 1}, {0, -1}, {1, 0}, {-1, 0}
         };
@@ -30,7 +30,7 @@ class Solution {
             if (newI >= 0 && newJ >= 0 
                 && newI < n && newJ < m
                 && grid[newI][newJ] == '1' && !visited[newI][newJ]) {
-                    visited[newI][newJ] = true;
+                    // visited[newI][newJ] = true;
                 dfs(newI, newJ, n, m, grid, visited);
             }
         }
