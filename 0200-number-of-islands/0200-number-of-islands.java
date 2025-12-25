@@ -1,40 +1,38 @@
+// DFS
 class Solution {
-    // DFS O(m * n) time, O(m * n) space
     public int numIslands(char[][] grid) {
-        int ROWS = grid.length;
-        int COLS = grid[0].length;
-        int islands = 0;
+        int n = grid.length;
+        int m = grid[0].length;
+        boolean visited[][] = new boolean[n][m];
+        int count = 0;
 
-        for (int r = 0; r < ROWS; r++) {
-            for (int c = 0; c < COLS; c++) {
-                if (grid[r][c] == '1') {
-                    islands++; // we found 1 island
-                    dfs(grid, r, c); // check for others
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == '1' && !visited[i][j]) {
+                    count++;
+                    visited[i][j] = true;
+                    dfs(i, j, n, m, grid, visited);
                 }
             }
         }
-        return islands;
+        return count;
     }
 
-    private void dfs (char[][] grid, int r, int c) {
-        int ROWS = grid.length;
-        int COLS = grid[0].length;
+    public void dfs(int i, int j, int n, int m, char[][] grid, boolean[][] visited) {
+        // visited[i][j] = true;
+        int[][] directions = {
+            {0, 1}, {0, -1}, {1, 0}, {-1, 0}
+        };
 
-        // edge cases
-        if (r < 0 || c < 0 ||
-            r >= ROWS || c >= COLS ||
-            grid[r][c] == '0') {
-
-            return;
+        for (int[] dir : directions) {
+            int newI = i + dir[0];
+            int newJ = j + dir[1];
+            if (newI >= 0 && newJ >= 0 
+                && newI < n && newJ < m
+                && grid[newI][newJ] == '1' && !visited[newI][newJ]) {
+                    visited[newI][newJ] = true;
+                dfs(newI, newJ, n, m, grid, visited);
+            }
         }
-
-        // mark visited islands to 0
-        grid[r][c] = '0';
-
-        // explore all 4 directions
-        dfs(grid, r + 1, c);
-        dfs(grid, r, c + 1);
-        dfs(grid, r - 1, c);
-        dfs(grid, r, c - 1);
     }
 }
