@@ -376,6 +376,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrakarshKamal/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/PrakarshKamal/leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -402,6 +403,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrakarshKamal/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/PrakarshKamal/leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
@@ -533,6 +535,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/PrakarshKamal/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrakarshKamal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
@@ -540,6 +543,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0133-clone-graph](https://github.com/PrakarshKamal/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/PrakarshKamal/leetcode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/PrakarshKamal/leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrakarshKamal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
