@@ -385,6 +385,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/PrakarshKamal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrakarshKamal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -410,6 +411,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/PrakarshKamal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/PrakarshKamal/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -542,6 +544,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0200-number-of-islands](https://github.com/PrakarshKamal/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PrakarshKamal/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/PrakarshKamal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrakarshKamal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -549,6 +552,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0133-clone-graph](https://github.com/PrakarshKamal/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/PrakarshKamal/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/PrakarshKamal/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/PrakarshKamal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrakarshKamal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
