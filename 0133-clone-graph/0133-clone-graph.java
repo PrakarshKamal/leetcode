@@ -18,29 +18,25 @@ class Node {
 }
 */
 
+// DFS O(V+E) time, O(V+E) space
 class Solution {
-    // DFS O(V + E) time, O(V) space
-    Map<Node, Node> map = new HashMap<>();
-
     public Node cloneGraph(Node node) {
-        return dfs(node);
+        Map<Node, Node> map = new HashMap<>();
+        return dfs(node, map);
     }
+    public Node dfs(Node node, Map<Node, Node> map) {
+        if (node == null) return null;
+        Node cloned = new Node(node.val);
+        map.put(node, cloned);
 
-    private Node dfs(Node node) {
-        if (node == null) {
-            return node;
+        for (Node neighbor : node.neighbors) {
+            if (!map.containsKey(neighbor)) {
+                cloned.neighbors.add(dfs(neighbor, map));
+            }
+            else {
+                cloned.neighbors.add(map.get(neighbor));
+            }
         }
-
-        if (map.containsKey(node)) {
-            return map.get(node);
-        }
-
-        Node clone = new Node(node.val);
-        map.put(node, clone);
-
-        for (Node neighbors : node.neighbors) {
-            clone.neighbors.add(dfs(neighbors));
-        }
-        return clone;
+        return cloned;
     }
 }
