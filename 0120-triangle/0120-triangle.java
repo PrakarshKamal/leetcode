@@ -24,14 +24,14 @@ class Solution {
         int n = triangle.size();
         int[][] dp = new int[n][n];
         for (int[] i : dp) {
-            Arrays.fill(i, Integer.MAX_VALUE-1);
+            Arrays.fill(i, Integer.MAX_VALUE);
         }
         return helper(0, 0, triangle, dp);
     }
     public int helper(int row, int col, List<List<Integer>> triangle, int[][] dp) {
         int n = triangle.size();
         if (row >= n) return 0;
-        if (dp[row][col] != Integer.MAX_VALUE-1) return dp[row][col];
+        if (dp[row][col] != Integer.MAX_VALUE) return dp[row][col];
 
         int currSum = triangle.get(row).get(col);
         
