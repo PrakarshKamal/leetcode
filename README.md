@@ -23,6 +23,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/PrakarshKamal/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrakarshKamal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PrakarshKamal/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/PrakarshKamal/leetcode/tree/master/0139-word-break) |
@@ -291,6 +292,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0095-unique-binary-search-trees-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/PrakarshKamal/leetcode/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/PrakarshKamal/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrakarshKamal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/PrakarshKamal/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PrakarshKamal/leetcode/tree/master/0139-word-break) |
