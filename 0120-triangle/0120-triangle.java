@@ -68,7 +68,7 @@
 //     }
 // }
 
-
+// Bottom up space optimized, O(n^2) time, O(n) space
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
         int n = triangle.size();
