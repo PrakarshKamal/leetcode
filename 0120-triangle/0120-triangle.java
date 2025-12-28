@@ -49,21 +49,43 @@
 // }
 
 // Bottom up 2D DP, O(n^2) time, O(n^2) space
+// class Solution {
+//     public int minimumTotal(List<List<Integer>> triangle) {
+//         int n = triangle.size();
+//         int[][] dp = new int[n][n];
+//         for (int i = 0; i < n; i++) {
+//             dp[n-1][i] = triangle.get(n-1).get(i);
+//         }
+//         for (int row = n-2; row >= 0; row--) {
+//             for (int col = 0; col <= row; col++) {
+//                 int currSum = triangle.get(row).get(col);
+//                 int sum1 = currSum + dp[row+1][col];
+//                 int sum2 = currSum + dp[row+1][col+1];
+//                 dp[row][col] = Math.min(sum1, sum2);
+//             }
+//         }
+//         return dp[0][0];
+//     }
+// }
+
+
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
         int n = triangle.size();
-        int[][] dp = new int[n][n];
+        int[] prev = new int[n];
         for (int i = 0; i < n; i++) {
-            dp[n-1][i] = triangle.get(n-1).get(i);
+            prev[i] = triangle.get(n-1).get(i);
         }
         for (int row = n-2; row >= 0; row--) {
+            int[] curr = new int[n];
             for (int col = 0; col <= row; col++) {
                 int currSum = triangle.get(row).get(col);
-                int sum1 = currSum + dp[row+1][col];
-                int sum2 = currSum + dp[row+1][col+1];
-                dp[row][col] = Math.min(sum1, sum2);
+                int sum1 = currSum + prev[col];
+                int sum2 = currSum + prev[col+1];
+                curr[col] = Math.min(sum1, sum2);
             }
+            prev = curr;
         }
-        return dp[0][0];
+        return prev[0];
     }
 }
