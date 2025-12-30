@@ -49,6 +49,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0724-find-pivot-index](https://github.com/PrakarshKamal/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/PrakarshKamal/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/PrakarshKamal/leetcode/tree/master/0817-design-hashmap) |
+| [0840-magic-squares-in-grid](https://github.com/PrakarshKamal/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/PrakarshKamal/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -97,6 +98,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKamal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0697-degree-of-an-array) |
 | [0817-design-hashmap](https://github.com/PrakarshKamal/leetcode/tree/master/0817-design-hashmap) |
+| [0840-magic-squares-in-grid](https://github.com/PrakarshKamal/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/PrakarshKamal/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
@@ -221,6 +223,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrakarshKamal/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrakarshKamal/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0840-magic-squares-in-grid](https://github.com/PrakarshKamal/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -260,6 +263,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0304-range-sum-query-2d-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [0840-magic-squares-in-grid](https://github.com/PrakarshKamal/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Recursion
