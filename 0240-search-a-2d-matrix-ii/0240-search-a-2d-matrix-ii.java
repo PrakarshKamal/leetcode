@@ -1,20 +1,20 @@
+// O(n+m) time, O(1) space
 class Solution {
-    // Staircase method O(m+n) time, O(1) space
     public boolean searchMatrix(int[][] matrix, int target) {
-        int m = matrix.length;
-        int n = matrix[0].length;
+        int n = matrix.length;
+        int m = matrix[0].length;
 
         int row = 0;
-        int col = n - 1;
+        int col = m-1;
 
-        while (row < m && col >= 0) {
+        while (row < n && col >= 0 ) {
             int val = matrix[row][col];
 
-            if (target > val) {
-                row++;
-            }
-            else if (target < val) {
+            if (val > target) {
                 col--;
+            }
+            else if (val < target) {
+                row++;
             }
             else {
                 return true;
