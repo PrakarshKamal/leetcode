@@ -58,6 +58,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [1127-last-stone-weight](https://github.com/PrakarshKamal/leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1306-jump-game-iii](https://github.com/PrakarshKamal/leetcode/tree/master/1306-jump-game-iii) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrakarshKamal/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/1929-concatenation-of-array) |
@@ -399,6 +400,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/PrakarshKamal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/PrakarshKamal/leetcode/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrakarshKamal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -430,6 +432,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/PrakarshKamal/leetcode/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrakarshKamal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
