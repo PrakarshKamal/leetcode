@@ -34,9 +34,10 @@ class Solution {
         boolean[] visited = new boolean[n];
 
         visited[start] = true;
-        return dfs(start, n, arr, visited);
-            // return false;
-        // return true;
+        if (!dfs(start, n, arr, visited)) {
+            return false;
+        }
+        return true;
     }
     public boolean dfs(int i, int n, int[] arr, boolean[] visited) {
         if (arr[i] == 0) return true; // base case, found way to reach
