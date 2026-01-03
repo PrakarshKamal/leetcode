@@ -13,13 +13,13 @@ class Solution {
                 return true; // found way to reach
             }
 
-            int jump1 = i + arr[i];
+            int jump1 = i + arr[i]; // jump1 is i (index)
             if (jump1 < n && !visited[jump1]) {
                 visited[jump1] = true;
                 q.offer(jump1);
             }
             
-            int jump2 = i - arr[i];
+            int jump2 = i - arr[i]; // jump2 is i (index)
             if (jump2 >= 0 && !visited[jump2]) {
                 visited[jump2] = true;
                 q.offer(jump2);
