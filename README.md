@@ -7,6 +7,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0001-two-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PrakarshKamal/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/PrakarshKamal/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshKamal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrakarshKamal/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/PrakarshKamal/leetcode/tree/master/0036-valid-sudoku) |
@@ -68,6 +69,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrakarshKamal/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/PrakarshKamal/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrakarshKamal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrakarshKamal/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PrakarshKamal/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
