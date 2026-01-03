@@ -20,7 +20,7 @@ class Solution {
             }
             
             int jump2 = i - arr[i];
-            if (jump2 >= 0 && jump2 < n && !visited[jump2]) {
+            if (jump2 >= 0 && !visited[jump2]) {
                 visited[jump2] = true;
                 q.offer(jump2);
             }
