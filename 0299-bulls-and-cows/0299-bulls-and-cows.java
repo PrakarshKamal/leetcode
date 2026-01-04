@@ -1,8 +1,9 @@
+// O(n) time, O(1) space
 class Solution {
     public String getHint(String secret, String guess) {
         int n = secret.length();
         StringBuilder sb = new StringBuilder();
-        Map<Character, Integer> map = new HashMap<>();
+        Map<Character, Integer> map = new HashMap<>(); // fixed size of 0 to 9
         int bullCount = 0;
         int cowCount = 0;
 
