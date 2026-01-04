@@ -1,7 +1,6 @@
 class Solution {
     public String getHint(String secret, String guess) {
         int n = secret.length();
-        StringBuilder sb = new StringBuilder();
         Map<Character, Integer> map = new HashMap<>();
         int[] arr = new int[10];
         int bullCount = 0;
@@ -29,7 +28,7 @@ class Solution {
                 }
             }
         }
-        sb.append(bullCount).append('A').append(cowCount).append('B');
-        return sb.toString();
+        String ans = bullCount + "A" + cowCount + "B";
+        return ans;
     }
 }
