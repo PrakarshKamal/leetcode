@@ -98,6 +98,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0217-contains-duplicate](https://github.com/PrakarshKamal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/PrakarshKamal/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKamal/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +144,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PrakarshKamal/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/PrakarshKamal/leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/PrakarshKamal/leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshKamal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -213,6 +215,7 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/PrakarshKamal/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/PrakarshKamal/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Quickselect
