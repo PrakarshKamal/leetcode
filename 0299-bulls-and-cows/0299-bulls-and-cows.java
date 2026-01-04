@@ -7,7 +7,7 @@ class Solution {
         int bullCount = 0;
         int cowCount = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { // first pass check same chars
             char s = secret.charAt(i);
             char g = guess.charAt(i);
             if (s == g) {
@@ -17,7 +17,7 @@ class Solution {
                 map.put(s, map.getOrDefault(s, 0) + 1);
             }
         }
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { // second pass check diff chars and if map count for g > 0
             char s = secret.charAt(i);
             char g = guess.charAt(i);
 
