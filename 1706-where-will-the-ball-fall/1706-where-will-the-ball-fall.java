@@ -1,3 +1,4 @@
+// DFS O(n*m) time, O(n) space
 class Solution {
     public int[] findBall(int[][] grid) {
         int n = grid.length;
