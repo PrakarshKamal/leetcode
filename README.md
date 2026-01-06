@@ -62,6 +62,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-jump-game-iii](https://github.com/PrakarshKamal/leetcode/tree/master/1306-jump-game-iii) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
+| [1706-where-will-the-ball-fall](https://github.com/PrakarshKamal/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrakarshKamal/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/2058-concatenation-of-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0054-spiral-matrix) |
+| [1706-where-will-the-ball-fall](https://github.com/PrakarshKamal/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrakarshKamal/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/PrakarshKamal/leetcode/tree/master/2058-concatenation-of-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0840-magic-squares-in-grid](https://github.com/PrakarshKamal/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1706-where-will-the-ball-fall](https://github.com/PrakarshKamal/leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Recursion
 |  |
 | ------- |
