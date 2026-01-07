@@ -205,6 +205,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/PrakarshKamal/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshKamal/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
@@ -412,6 +413,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/PrakarshKamal/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PrakarshKamal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshKamal/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -442,6 +444,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/PrakarshKamal/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PrakarshKamal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshKamal/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/PrakarshKamal/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -586,6 +589,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0133-clone-graph](https://github.com/PrakarshKamal/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/PrakarshKamal/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/PrakarshKamal/leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/PrakarshKamal/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PrakarshKamal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshKamal/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrakarshKamal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -616,5 +620,6 @@ A collection of LeetCode problems I solved to practice DSA.
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/PrakarshKamal/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshKamal/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
