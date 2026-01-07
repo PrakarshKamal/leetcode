@@ -61,6 +61,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-jump-game-iii](https://github.com/PrakarshKamal/leetcode/tree/master/1306-jump-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakarshKamal/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
 | [1706-where-will-the-ball-fall](https://github.com/PrakarshKamal/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrakarshKamal/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -325,6 +326,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0894-all-possible-full-binary-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakarshKamal/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
@@ -603,6 +605,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrakarshKamal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrakarshKamal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrakarshKamal/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakarshKamal/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/PrakarshKamal/leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Greedy
 |  |
