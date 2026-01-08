@@ -1,6 +1,6 @@
 class Solution {
     public String reverseWords(String s) {
-        String[] parts = s.split("\\s+");
+        String[] parts = s.trim().split("\\s+"); // trim to remove leading and trailing spaces
         int left = 0;
         int right = parts.length-1;
 
@@ -11,7 +11,7 @@ class Solution {
             left++;
             right--;
         }
-        String ans = String.join(" ", parts).trim();
+        String ans = String.join(" ", parts);
         return ans;
     }
 }
