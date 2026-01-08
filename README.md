@@ -17,6 +17,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/PrakarshKamal/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/PrakarshKamal/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/PrakarshKamal/leetcode/tree/master/0078-subsets) |
@@ -311,6 +312,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/PrakarshKamal/leetcode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/PrakarshKamal/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -613,6 +615,7 @@ A collection of LeetCode problems I solved to practice DSA.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrakarshKamal/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/PrakarshKamal/leetcode/tree/master/0055-jump-game) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/PrakarshKamal/leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Trie
 |  |
