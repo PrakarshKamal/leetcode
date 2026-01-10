@@ -45,6 +45,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0300-longest-increasing-subsequence](https://github.com/PrakarshKamal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/PrakarshKamal/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0322-coin-change](https://github.com/PrakarshKamal/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKamal/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -324,6 +325,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0139-word-break](https://github.com/PrakarshKamal/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PrakarshKamal/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/PrakarshKamal/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/PrakarshKamal/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/PrakarshKamal/leetcode/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshKamal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0542-01-matrix) |
@@ -447,6 +449,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0207-course-schedule](https://github.com/PrakarshKamal/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/PrakarshKamal/leetcode/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrakarshKamal/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0542-01-matrix) |
