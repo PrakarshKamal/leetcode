@@ -331,6 +331,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0894-all-possible-full-binary-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakarshKamal/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0894-all-possible-full-binary-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/PrakarshKamal/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshKamal/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/PrakarshKamal/leetcode/tree/master/1306-jump-game-iii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrakarshKamal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -502,6 +505,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0894-all-possible-full-binary-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/PrakarshKamal/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Merge Sort
 |  |
