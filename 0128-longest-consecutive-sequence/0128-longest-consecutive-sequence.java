@@ -41,7 +41,7 @@ class Solution {
             }
             else {
                 int len = 1;
-                while (set.contains(num+len)) {
+                while (set.contains(num+len)) { // check num+1, num+2, num+3, ...
                     len++;
                     best = Math.max(best, len);
                 }
