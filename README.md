@@ -115,6 +115,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0697-degree-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0697-degree-of-an-array) |
 | [0817-design-hashmap](https://github.com/PrakarshKamal/leetcode/tree/master/0817-design-hashmap) |
 | [0840-magic-squares-in-grid](https://github.com/PrakarshKamal/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/PrakarshKamal/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
@@ -129,6 +130,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Simulation
@@ -392,6 +394,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0894-all-possible-full-binary-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -433,6 +436,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0743-network-delay-time](https://github.com/PrakarshKamal/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PrakarshKamal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshKamal/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/PrakarshKamal/leetcode/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -467,6 +471,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0785-is-graph-bipartite](https://github.com/PrakarshKamal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshKamal/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/PrakarshKamal/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -512,6 +517,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0894-all-possible-full-binary-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/PrakarshKamal/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
