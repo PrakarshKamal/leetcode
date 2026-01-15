@@ -49,7 +49,8 @@ class Solution {
         int count = 1;
         int[] prev = pairs[0];
 
-        for (int[] curr : pairs) {
+        for (int i = 0; i < pairs.length; i++) {
+            int[] curr = pairs[i];
             if (prev[1] < curr[0]) { // checking if current chain can be extended
                 count++;
                 prev = curr;
