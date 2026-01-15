@@ -46,13 +46,13 @@
 class Solution {
     public int findLongestChain(int[][] pairs) {
         Arrays.sort(pairs, (a, b) -> Integer.compare(a[1], b[1]));
-        int count = 0;
-        int lastEnd = Integer.MIN_VALUE;
+        int count = 1;
+        int[] prev = pairs[0];
 
-        for (int[] pair : pairs) {
-            if (pair[0] > lastEnd) { // checking if current chain can be extended
+        for (int[] curr : pairs) {
+            if (prev[1] < curr[0]) { // checking if current chain can be extended
                 count++;
-                lastEnd = pair[1];
+                prev = curr;
             }
         }
         return count;
