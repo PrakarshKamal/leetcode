@@ -52,6 +52,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0518-coin-change-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/PrakarshKamal/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/PrakarshKamal/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/PrakarshKamal/leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/PrakarshKamal/leetcode/tree/master/0724-find-pivot-index) |
@@ -129,6 +130,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0242-valid-anagram](https://github.com/PrakarshKamal/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrakarshKamal/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/PrakarshKamal/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0646-maximum-length-of-pair-chain](https://github.com/PrakarshKamal/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -337,6 +339,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0516-longest-palindromic-subsequence](https://github.com/PrakarshKamal/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/PrakarshKamal/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/PrakarshKamal/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshKamal/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0894-all-possible-full-binary-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
@@ -638,6 +641,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0011-container-with-most-water](https://github.com/PrakarshKamal/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/PrakarshKamal/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/PrakarshKamal/leetcode/tree/master/0134-gas-station) |
+| [0646-maximum-length-of-pair-chain](https://github.com/PrakarshKamal/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/PrakarshKamal/leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Trie
 |  |
