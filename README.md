@@ -150,6 +150,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0013-roman-to-integer](https://github.com/PrakarshKamal/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PrakarshKamal/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PrakarshKamal/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/PrakarshKamal/leetcode/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/PrakarshKamal/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/PrakarshKamal/leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/PrakarshKamal/leetcode/tree/master/0125-valid-palindrome) |
