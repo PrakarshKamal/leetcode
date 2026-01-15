@@ -1,0 +1,43 @@
+// Recursive O(2^n) time, O(n) space
+// class Solution {
+//     public int findLongestChain(int[][] pairs) {
+//         Arrays.sort(pairs, (a, b) -> Integer.compare(a[0], b[0]));
+//         int n = pairs.length;
+//         return helper(0, n, -1, pairs);
+//     }
+//     public int helper(int i, int n, int prevIdx, int[][] pairs) {
+//         if (i >= n) return 0;
+
+//         int skip = helper(i+1, n, prevIdx, pairs);
+//         int take = 0;
+//         if (prevIdx == -1 || pairs[prevIdx][1] < pairs[i][0]) {
+//             take = 1 + helper(i+1, n, i, pairs);
+//         }
+//         return Math.max(skip, take);
+//     }
+// }
+
+// Top down time, space
+class Solution {
+    public int findLongestChain(int[][] pairs) {
+        Arrays.sort(pairs, (a, b) -> Integer.compare(a[0], b[0]));
+        int n = pairs.length;
+        int[][] dp = new int[n][n+1];
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
+        return helper(0, n, -1, pairs, dp);
+    }
+    public int helper(int i, int n, int prevIdx, int[][] pairs, int[][] dp) {
+        if (i >= n) return 0;
+        if (dp[i][prevIdx+1] != -1) return dp[i][prevIdx+1];
+
+        int skip = helper(i+1, n, prevIdx, pairs, dp);
+        int take = 0;
+        if (prevIdx == -1 || pairs[prevIdx][1] < pairs[i][0]) {
+            take = 1 + helper(i+1, n, i, pairs, dp);
+        }
+        dp[i][prevIdx+1] = Math.max(skip, take);
+        return dp[i][prevIdx+1];
+    }
+}
