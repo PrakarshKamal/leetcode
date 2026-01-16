@@ -32,7 +32,7 @@ class Solution {
             maxHeap.offer(stone);
         }
 
-        while (maxHeap.size() >= 2) {
+        while (maxHeap.size() > 1) {
             int y = maxHeap.poll(); // largest
             int x = maxHeap.poll(); // next largest
             int curr = y - x;
