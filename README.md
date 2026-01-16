@@ -64,6 +64,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/PrakarshKamal/leetcode/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/PrakarshKamal/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1127-last-stone-weight](https://github.com/PrakarshKamal/leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -226,6 +227,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0789-kth-largest-element-in-a-stream](https://github.com/PrakarshKamal/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/PrakarshKamal/leetcode/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/PrakarshKamal/leetcode/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
