@@ -16,6 +16,7 @@
 //     }
 // }
 
+// Top down memo O(n*S) time, O(n*2S) space, S = sum(stones)
 class Solution {
     public int lastStoneWeightII(int[] stones) {
         int n = stones.length;
@@ -24,7 +25,7 @@ class Solution {
             sum += stone;
         }
 
-        int[][] dp = new int[n][2*sum+1];
+        int[][] dp = new int[n][2*sum];
         for (int[] row : dp) {
             Arrays.fill(row, -1);
         }
