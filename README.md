@@ -64,6 +64,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrakarshKamal/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/PrakarshKamal/leetcode/tree/master/1036-rotting-oranges) |
+| [1049-last-stone-weight-ii](https://github.com/PrakarshKamal/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1127-last-stone-weight](https://github.com/PrakarshKamal/leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -344,6 +345,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0787-cheapest-flights-within-k-stops](https://github.com/PrakarshKamal/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0894-all-possible-full-binary-trees](https://github.com/PrakarshKamal/leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1013-fibonacci-number) |
+| [1049-last-stone-weight-ii](https://github.com/PrakarshKamal/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/PrakarshKamal/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakarshKamal/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
