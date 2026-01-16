@@ -25,7 +25,7 @@ class Solution {
             sum += stone;
         }
 
-        int[][] dp = new int[n][2*sum];
+        int[][] dp = new int[n][2*sum+1];
         for (int[] row : dp) {
             Arrays.fill(row, -1);
         }
