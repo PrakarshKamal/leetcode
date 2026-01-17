@@ -1,24 +1,22 @@
 class Solution {
-    // Two Pointers O(n) time, O(1) space
     public int maxArea(int[] height) {
+        int n = height.length;
+        int currArea = 0;
+        int maxArea = 0;
         int left = 0;
-        int right = height.length - 1;
-        int max = 0;
-        while (left < right) {
-            // Area is height * width
-            // height is limited by the smaller vertical line so we take minimum
-            // width is simply (right - left)
-            int area = Math.min(height[left], height[right]) * (right - left);
-            max = Math.max(max, area);
+        int right = n-1;
 
-            // to maximize width, we compare left height to right height
+        while (left <= right) {
+            currArea = (right-left) * Math.min(height[left], height[right]);
+            maxArea = Math.max(maxArea, currArea);
+            
             if (height[left] < height[right]) {
-                left++; // try to find new taller left wall
+                left++;
             }
             else {
-                right--; // try to find new taller right wall
+                right--;
             }
         }
-        return max;
+        return maxArea;
     }
 }
