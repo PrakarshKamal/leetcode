@@ -70,6 +70,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [1171-shortest-path-in-binary-matrix](https://github.com/PrakarshKamal/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-jump-game-iii](https://github.com/PrakarshKamal/leetcode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrakarshKamal/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1582-design-browser-history](https://github.com/PrakarshKamal/leetcode/tree/master/1582-design-browser-history) |
 | [1706-where-will-the-ball-fall](https://github.com/PrakarshKamal/leetcode/tree/master/1706-where-will-the-ball-fall) |
@@ -120,6 +121,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0840-magic-squares-in-grid](https://github.com/PrakarshKamal/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/PrakarshKamal/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode problems I solved to practice DSA.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PrakarshKamal/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/PrakarshKamal/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/PrakarshKamal/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Simulation
 |  |
 | ------- |
