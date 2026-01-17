@@ -1,3 +1,4 @@
+// Two Pointers O(n) time, O(1) space
 class Solution {
     public int maxArea(int[] height) {
         int n = height.length;
