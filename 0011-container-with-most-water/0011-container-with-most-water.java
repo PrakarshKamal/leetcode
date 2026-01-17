@@ -7,14 +7,15 @@ class Solution {
         int right = n-1;
 
         while (left <= right) {
+            // height limited by min height from left or right
             currArea = (right-left) * Math.min(height[left], height[right]);
             maxArea = Math.max(maxArea, currArea);
             
             if (height[left] < height[right]) {
-                left++;
+                left++; // try to find new taller left
             }
             else {
-                right--;
+                right--; // try to find new taller right
             }
         }
         return maxArea;
